@@ -1,0 +1,316 @@
+/*!
+Theme Name: Keenshot
+Theme URI: http://themes.keendevs.com/keenshot/
+Author: Keendevs
+Author URI: https://keendevs.com/
+Description: Keenshot is an amazing photography WordPress theme with outstanding and trendy looks, color and layout that is best for any photographer to showcase their works. It is seo friendly, super responsive for any devices and browsers, light-weight and easy to customize. It support Gutenberg, Elementor, Visual Composer and any other popular page builders. The great thing about Keenshots is the support from author. Give it a try and let us know for anything, anytime. 
+Version: 1.6.2
+License: GNU General Public License v3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: keenshot
+Tags: blog, portfolio, photography, one-column, right-sidebar, left-sidebar,  custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, theme-options, threaded-comments, translation-ready
+*/
+
+.search-highlight{
+	color:green;
+}
+.site-url a{
+ font-size: 30px;
+ text-transform: uppercase;
+ color: #fff;
+ font-weight: 700;
+}
+.site-description a{
+ font-size: 15px;
+ text-transform: uppercase;
+ color: #fff;
+ font-weight: 700;
+}
+
+.btn-warning {
+    border: 1px solid #7B62D8;
+}
+
+.pagination li.active a{
+  background-color: #000;
+  color: #ffffff;
+}
+ul.instagram-pics.instagram-size-thumbnail.instagram-photo {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-gap: 5px;
+}
+.instagram-pics img{
+  width: 100%;
+}
+.stylish-border {
+  margin-bottom: 5px;
+}
+.wp-caption{
+  padding: 0;
+}
+.wp-caption-text{
+  padding: 0;
+}
+.screen-reader-text{
+  padding: 0;
+}
+.gallery-caption {
+  padding: 0;
+}
+.bypostauthor{
+  padding: 0;
+}
+.alignright{
+  padding: 0;
+}
+.alignleft{
+  padding: 0;
+}
+.aligncenter{
+  padding: 0;
+}
+/* shop page style ==============*/
+
+.shop-page {
+  padding:50px 0;
+}
+.shop-page ul li {
+  list-style: none;
+}
+.shop-page .sidebar ul li ul.product-categories {
+  padding-left: 0;
+}
+.shop-page .sidebar ul li{
+  padding-bottom:30px;
+}
+.shop-page .sidebar .woocommerce-product-search {
+  position: relative;
+  background: white;
+  margin: 0 0 30px;
+}
+.shop-page .sidebar .woocommerce-product-search input {
+  padding: 12px 15px!important;
+  color: #ADADAD;
+  font-weight: 300;
+  font-family: "Montserrat";
+  font-size: 0.875rem;
+  line-height: 1.28571;
+  letter-spacing: 0.05em;
+}
+.shop-page .sidebar .woocommerce-product-search button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: #7b62d8;
+  border: 0;
+  height: 100%;
+  width: 70px;
+}
+.shop-page .sidebar ul li a{
+  color:#000;
+}
+.shop-page .sidebar ul li ul li{
+  padding-bottom:5px;
+}
+.shop-page .variations label {
+  color:#000;
+}
+.shop-page .variations #pa_color {
+  margin-bottom: 8px;
+  padding:0 12px;
+}
+.shop-page .variations #logo{
+  padding:0 12px;
+}
+
+.shop-page .sidebar ul li ul.children{
+  padding-left: 12px;
+}
+p.woocommerce-result-count {
+  color: #000;
+}
+.woocommerce .woocommerce-ordering select {
+  padding: 15px;
+  color: #000;
+}
+.quantity input{
+  padding: 5px 10px!important;
+}
+body{
+  color: #000;
+}
+.coupon button.button {
+  margin-top: 10px !important;
+}
+nav.woocommerce-MyAccount-navigation ul li {
+  padding: 4px 0;
+}
+nav.woocommerce-MyAccount-navigation ul li a {
+  color: black;
+  font-size: 16px;
+}
+.blog-single .sidebar .widgettitle {
+  margin: 0 0 7px;
+}
+ul.product-categories li a {
+  color: #000;
+}
+.error-holder{
+ margin: 50px 0;
+}
+.error-page{
+  margin-bottom: 100px;
+}
+a.btn-primary.error-page {
+  padding: 10px;
+}
+ol, ul {
+   padding-left: 0px !important; 
+}
+.blog-list ul.post-items .post-item .post-meta .comment-whislist a {
+  font-family: "Font Awesome 5 Free";
+}
+.blog-list ul.post-items .post-item .post-meta .comment-whislist a.fa-heart:before {
+  margin-right: 5px;
+}
+.mfp-with-zoom .mfp-container,
+.mfp-with-zoom.mfp-bg {
+  opacity: 0;
+  -webkit-backface-visibility: hidden;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+
+.mfp-with-zoom.mfp-ready .mfp-container {
+    opacity: 1;
+}
+.mfp-with-zoom.mfp-ready.mfp-bg {
+    opacity: 0.8;
+}
+
+.mfp-with-zoom.mfp-removing .mfp-container,
+.mfp-with-zoom.mfp-removing.mfp-bg {
+  opacity: 0;
+}
+
+.mfp-zoom-in .mfp-with-anim {
+  opacity: 0;
+  transition: all 0.2s ease-in-out;
+  transform: scale(0.8);
+}
+.mfp-zoom-in.mfp-bg {
+  opacity: 0;
+  transition: all 0.3s ease-out;
+}
+.mfp-zoom-in.mfp-ready .mfp-with-anim {
+  opacity: 1;
+  transform: scale(1);
+}
+.mfp-zoom-in.mfp-ready.mfp-bg {
+  opacity: 0.8;
+}
+.mfp-zoom-in.mfp-removing .mfp-with-anim {
+  transform: scale(0.8);
+  opacity: 0;
+}
+.mfp-zoom-in.mfp-removing.mfp-bg {
+  opacity: 0;
+}
+
+/* 
+
+====== Newspaper effect ======
+
+*/
+.mfp-newspaper .mfp-with-anim {
+  opacity: 0;
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s;
+  transform: scale(0) rotate(500deg);
+}
+.mfp-newspaper.mfp-bg {
+  opacity: 0;
+  transition: all 0.5s;
+}
+.mfp-newspaper.mfp-ready .mfp-with-anim {
+  opacity: 1;
+  transform: scale(1) rotate(0deg);
+}
+.mfp-newspaper.mfp-ready.mfp-bg {
+  opacity: 0.8;
+}
+.mfp-newspaper.mfp-removing .mfp-with-anim {
+  transform: scale(0) rotate(500deg);
+  opacity: 0;
+}
+.mfp-newspaper.mfp-removing.mfp-bg {
+  opacity: 0;
+}
+#gmap{
+  height: auto;
+}
+@media only screen and (max-width: 991px){
+  .navbar-toggle .icon-bar .inner{
+    color: #7B62D8;
+  }
+}
+@media only screen and (max-width: 991px){
+  .navbar-toggle .icon-bar .inner {
+    background-color: #7B62D8;
+ }
+}
+.pull-right{
+  max-width: 300px;
+}
+.pull-left{
+  max-width: 300px;
+}
+.post-meta p a {
+  padding:0 4px;
+}
+/* Accessibility */
+/* Text meant only for screen readers. */
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal !important;
+  /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+
+.screen-reader-text:focus {
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  clip-path: none;
+  color: #21759b;
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: bold;
+  height: auto;
+  right: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000;
+  /* Above WP toolbar. */
+}
+
+/* Do not show the outline on the skip link target. */
+#content[tabindex="-1"]:focus {
+  outline: 0;
+}
+

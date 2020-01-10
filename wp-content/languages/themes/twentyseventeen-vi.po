@@ -1,0 +1,330 @@
+# Translation of Themes - Twenty Seventeen in Vietnamese
+# This file is distributed under the same license as the Themes - Twenty Seventeen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-10 05:34:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Twenty Seventeen\n"
+
+#. Description of the theme
+msgid "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device."
+msgstr "Twenty Seventeen mang đến video trên header và ảnh nổi bật. Với định hướng dành cho các site kinh doanh, giao diện này mang đến nhiều mục trên trang chủ cũng như widget, menu chính và menu mạng xã hội, logo, và nhiều hơn nữa. Cá nhân hoá dễ dàng với màu tự chọn, và hiển thị nội dung đa phương tiện với định dạng bài viết. Đây là giao diện mặc định cho năm 2017 với nhiều ngôn ngữ, nhiều sự tuỳ biến và hoạt động tốt trên các thiết bị khác nhau."
+
+#. Theme Name of the theme
+msgid "Twenty Seventeen"
+msgstr "Twenty Seventeen"
+
+#: template-parts/footer/footer-widgets.php:18
+msgid "Footer"
+msgstr "Cuối trang"
+
+#: functions.php:338
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Thêm widget ở đây để hiển thị trong Sidebar của bạn trên các bài viết và trang Lưu trữ."
+
+#: sidebar.php:18 functions.php:336
+msgid "Blog Sidebar"
+msgstr "Blog Sidebar"
+
+#: template-parts/navigation/navigation-top.php:31
+#: template-parts/header/site-branding.php:34
+msgid "Scroll down to content"
+msgstr "Kéo xuống nội dung"
+
+#: functions.php:179
+msgctxt "Theme starter content"
+msgid "Coffee"
+msgstr "Coffee"
+
+#: functions.php:175
+msgctxt "Theme starter content"
+msgid "Sandwich"
+msgstr "Bánh kẹp"
+
+#: functions.php:171
+msgctxt "Theme starter content"
+msgid "Espresso"
+msgstr "Espresso"
+
+#: inc/custom-header.php:128
+msgid "Pause background video"
+msgstr "Tạm dừng video nền"
+
+#: inc/custom-header.php:127
+msgid "Play background video"
+msgstr "Chạy video nền"
+
+#: inc/template-tags.php:151
+msgid "Front Page Section %1$s Placeholder"
+msgstr "Mục nhập %1$s trên trang chủ"
+
+#: inc/customizer.php:109
+msgid "When the two-column layout is assigned, the page title is in one column and content is in the other."
+msgstr "Khi giao diện 2 cột được lựa chọn, tiêu đề trang sẽ trong 1 cột và nội dung sẽ trong cột khác."
+
+#: single.php:34
+msgid "Next Post"
+msgstr "Bài tiếp theo"
+
+#: index.php:27
+msgid "Posts"
+msgstr "Bài viết"
+
+#: inc/template-tags.php:89
+msgid "Tags"
+msgstr "Tag"
+
+#: inc/template-tags.php:85
+msgid "Categories"
+msgstr "Danh mục"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:66
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post date
+#: inc/template-tags.php:52
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Đăng trong</span> %s"
+
+#. translators: %s: post author
+#: inc/template-tags.php:21
+msgid "by %s"
+msgstr "bởi %s"
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr "Vui lòng xác định tên file icon SVG."
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr "Vui lòng xác định giá trị mặc định trong form của array."
+
+#: inc/customizer.php:143
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr "Chọn trang để hiển thị nổi bật trong mỗi khu vực từ danh sách dropdown. Thêm ảnh cho muc bằng thiết lập ảnh đại diện trong phần sửa trang. Mục rỗng sẽ không hiển thị."
+
+#. translators: %d is the front page section number
+#: inc/customizer.php:142
+msgid "Front Page Section %d Content"
+msgstr "Nội dung mục trang chủ %d"
+
+#: inc/customizer.php:112 inc/customizer.php:171
+msgid "Two Column"
+msgstr "Hai cột"
+
+#: inc/customizer.php:111 inc/customizer.php:170
+msgid "One Column"
+msgstr "Một cột"
+
+#: inc/customizer.php:106
+msgid "Page Layout"
+msgstr "Giao diện trang"
+
+#: inc/customizer.php:89
+msgid "Theme Options"
+msgstr "Tuỳ chọn giao diện"
+
+#: inc/customizer.php:64
+msgid "Custom"
+msgstr "Tuỳ biến"
+
+#: inc/customizer.php:62
+msgid "Light"
+msgstr "Tông màu sáng"
+
+#: inc/customizer.php:60
+msgid "Color Scheme"
+msgstr "Tông màu"
+
+#: inc/custom-header.php:56
+msgid "Default Header Image"
+msgstr "Ảnh mặc định trên cùng"
+
+#: functions.php:360
+msgid "Footer 2"
+msgstr "Cuối trang 2"
+
+#: functions.php:350 functions.php:362
+msgid "Add widgets here to appear in your footer."
+msgstr "Thêm widget ở đây để hiển thị trong Cuối trang."
+
+#: functions.php:348
+msgid "Footer 1"
+msgstr "Cuối trang 1"
+
+#: functions.php:289
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: template-parts/navigation/navigation-top.php:12 functions.php:64
+#: functions.php:203
+msgid "Top Menu"
+msgstr "Menu trên cùng"
+
+#: comments.php:62
+msgid "Reply"
+msgstr "Trả lời"
+
+#: template-parts/post/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Không thấy nội dung tìm kiếm. Hãy thử tìm kiếm khác."
+
+#: search.php:54
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
+
+#: template-parts/post/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng đăng bài viết đầu tiên chưa? <a href=\"%1$s\">Hãy bắt đầu tại đây</a>."
+
+#: template-parts/post/content-none.php:17 search.php:21
+msgid "Nothing Found"
+msgstr "Không có kết quả"
+
+#: single.php:33
+msgid "Previous Post"
+msgstr "Bài cũ hơn"
+
+#: single.php:33 comments.php:71
+msgid "Previous"
+msgstr "Trước"
+
+#: single.php:34 comments.php:72
+msgid "Next"
+msgstr "Trang sau"
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: searchform.php:19
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Tìm kiếm &hellip;"
+
+#: searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr "Tìm kiếm:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho từ khóa: %s"
+
+#. translators: %s: Name of current post
+#: template-parts/page/content-front-page-panels.php:45
+#: template-parts/page/content-front-page.php:42
+#: template-parts/post/content-audio.php:84 template-parts/post/content.php:57
+#: template-parts/post/content-gallery.php:71
+#: template-parts/post/content-video.php:83
+#: template-parts/post/content-image.php:61 functions.php:390
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Đọc tiếp<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer.php:63
+msgid "Dark"
+msgstr "Tông màu tối"
+
+#: inc/back-compat.php:39 inc/back-compat.php:52 inc/back-compat.php:70
+msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Giao diện Twenty Seventeen yêu cầu phiên bản WordPress tối thiểu 4.7. Bạn đang sử dụng phiên bản %s. Vui lòng nâng cấp và thử lại."
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:117
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Sửa<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/page/content-page.php:26
+#: template-parts/post/content-audio.php:91 template-parts/post/content.php:64
+#: template-parts/post/content-gallery.php:78
+#: template-parts/post/content-video.php:90
+#: template-parts/post/content-image.php:68
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/navigation/navigation-top.php:17
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Chuyển đến phần nội dung"
+
+#: functions.php:482
+msgid "Collapse child menu"
+msgstr "Ẩn Menu con"
+
+#: functions.php:481
+msgid "Expand child menu"
+msgstr "Hiện menu con"
+
+#: functions.php:65 functions.php:214
+msgid "Social Links Menu"
+msgstr "Menu mạng xã hội"
+
+#: template-parts/footer/site-info.php:19
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:26
+msgid "Footer Social Links Menu"
+msgstr "Menu mạng xã hội cuối trang"
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr "Không cho phép bình luận."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Trả lời &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Một trả lời cho &ldquo;%s&rdquo;"
+
+#: archive.php:50 search.php:47 index.php:54
+msgid "Page"
+msgstr "Trang"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Không thể tìm thấy dữ liệu cần thiết tại đây. Hãy thử tìm kiếm?"
+
+#: archive.php:48 search.php:45 index.php:52
+msgid "Previous page"
+msgstr "Trang trước"
+
+#: archive.php:49 search.php:46 index.php:53
+msgid "Next page"
+msgstr "Trang tiếp"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "Nhóm Phát Triển WordPress"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentyseventeen/"
+msgstr "https://wordpress.org/themes/twentyseventeen/"
+
+#. Author URI of the theme
+#: template-parts/footer/site-info.php:18
+msgid "https://wordpress.org/"
+msgstr "https://vi.wordpress.org/"

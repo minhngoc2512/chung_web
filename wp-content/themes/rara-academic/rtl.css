@@ -1,0 +1,268 @@
+/*
+Theme Name: Rara Academic
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.header-top .email,
+.header-top .tel-link,
+.site-branding,
+.header-top .social-networks li {
+    float: right;
+}
+
+.header-top .email,
+.header-top .tel-link {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.header-top .email .fa,
+.header-top .tel-link .fa {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.header-top .social-networks,
+.main-navigation {
+    float: left;
+}
+
+.main-navigation li {
+    float: right;
+    margin-left: 0;
+    margin-right: 40px;
+}
+
+.main-navigation ul ul {
+    display: none;
+}
+
+.main-navigation ul li:hover > ul {
+    display: block;
+}
+
+.main-navigation ul ul li:hover > ul {
+    left: 100%;
+    right: auto;
+}
+
+.header-top .social-networks li {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.main-navigation li:first-child {
+    margin-right: 0;
+}
+
+.banner-section .banner-text .text {
+    float: left;
+    text-align: right;
+}
+
+.col-3,
+.col-2 {
+    float: right;
+}
+
+.popular-courses .post .entry-title::after,
+.services .col-3 h5::after,
+.notice h2::after {
+    left: auto;
+    right: 0;
+}
+
+.welcome-section .col-2:first-child {
+    padding-right: 15px;
+    padding-left: 50px;
+}
+
+.notice .col-two,
+.notice .col-one,
+.viewer-section .text {
+    float: right;
+}
+
+.notice h2 {
+    margin-left: 0;
+    margin-right: 14px;
+}
+
+.testimonial .testimonial-holder .img-holder {
+    float: right;
+    margin-right: 0;
+    margin-left: 40px;
+}
+
+.testimonial .testimonial-holder .text-holder {
+    background-position: right 0;
+}
+
+.viewer-section .text {
+    margin-left: 15px;
+    margin-right: 0;
+}
+
+.viewer-section .apply {
+    float: left;
+}
+
+.widget .widget-title::after,
+.widget ul li::after {
+    left: auto;
+    right: 0;
+}
+
+.widget ul li::after {
+    transform: rotateY(180deg);
+}
+
+.site-footer .column {
+    float: right;
+}
+
+.widget ul li .post-thumbnail {
+    float: right;
+    margin-right: 0;
+    margin-left: 16px;
+}
+
+.widget ul li .entry-header {
+    text-align: right;
+}
+
+.widget ul li {
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+.widget ul li a {
+    display: inline-block;
+}
+
+.widget ul li a {
+    float: right;
+}
+
+#secondary .widget.widget_rara_academic_social_links ul li,
+.site-footer .widget.widget_rara_academic_social_links ul li {
+    margin-right: 20px;
+    margin-left: 0;
+    float: right;
+    padding: 0;
+}
+
+#secondary .widget.widget_rara_academic_social_links ul li:first-child,
+.site-footer .widget.widget_rara_academic_social_links ul li:first-child {
+    margin-right: 0;
+}
+
+.site-content #primary .entry-meta span::after {
+    right: 100%;
+    left: auto;
+}
+
+.site-content #primary .entry-meta span {
+    padding-right: 0;
+    margin-right: 0;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+.ab-top-menu {
+    float: right;
+}
+
+.widget.widget_text ul li,
+.widget.widget_links ul li,
+.widget.widget_rara_academic_recent_post ul li,
+.widget.widget_flickr ul li,
+.widget.widget_rara_academic_popular_post ul li {
+    padding-right: 0;
+}
+
+#secondary .widget ul li {
+    text-align: left;
+}
+
+#secondary .widget.widget_pages li, #secondary .widget.widget_meta li, #secondary .widget.widget_rss li, #secondary .widget.widget_nav_menu li, #secondary .widget.widget_recent_entries li{
+	text-align: right;
+}
+
+#crumbs span,
+#crumbs a {
+    display: inline-block;
+}
+
+.widget.widget_search form input[type="search"], .search #primary .page-header form input[type="search"], .error404 .not-found form input[type="search"]{
+	float: right;
+}
+
+.widget.widget_search form input[type="submit"], .search #primary .page-header form input[type="submit"], .error404 .not-found form input[type="submit"]{
+	float: left;
+}
+
+.site-content .entry-content ul li{
+	padding-left: 0;
+	padding-right: 20px;
+	background-position: 100% 10px;
+}
+
+.cat-links .fa, .tags-links .fa{
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.avatar.photo{
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+.comments-area ol{
+	padding-right: 0;
+}
+
+.comment-content{
+	margin-left: 0;
+	margin-right: 105px;
+}
+
+.comments-area ol ol li{
+	padding-left: 0;
+	padding-right: 40px;
+}
+
+.reply a{
+	float: left;
+}
+
+@media only screen and (max-width: 1024px){
+    .main-navigation{
+        right: inherit;
+        left: 0;
+        -webkit-transform: translateX(-420px);
+        -moz-transform: translateX(-420px);
+        transform: translateX(-420px);
+    }
+
+    .main-navigation .btn-close-menu{
+        right: inherit;
+        left: 25px;
+    }
+
+    .main-navigation ul li .angle-down{
+        right: inherit;
+        left: 0;
+    }
+}

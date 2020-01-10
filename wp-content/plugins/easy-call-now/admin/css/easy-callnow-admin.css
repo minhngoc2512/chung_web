@@ -1,0 +1,59 @@
+.ts-frm{
+float:left;
+display:block;
+clear:both;
+}
+.position-choosen{
+width: 100px;
+height: 120px;
+background: gray;
+padding: 10px 10px;
+position: relative;
+}
+
+.position-choosen .p_top_right,
+.position-choosen .p_bottom_right,
+.position-choosen .p_bottom_left{
+position: absolute;
+}
+
+.position-choosen .p_top_right{
+top: 10px;
+right: 10px;
+}
+.position-choosen .p_bottom_right{
+bottom: 10px;
+right: 10px;
+}
+
+.position-choosen .p_bottom_left{
+bottom: 10px;
+left: 10px;
+}
+
+.form-group{
+clear: both;
+padding-bottom: 10px;
+float:left;
+}
+
+.form-group .control-label{
+text-align: right;
+min-width: 100px;
+display: block;
+float:left;
+margin-right: 10px;
+}
+
+.form-group .input-group{
+display:block;
+float:left;
+}
+
+.offset-control input{
+width: 40px;
+}
+
+.offset-control .input-group:after{
+content: "px";
+}

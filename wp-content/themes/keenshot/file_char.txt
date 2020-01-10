@@ -1,0 +1,3228 @@
+<html dir="rtl">
+
+<head>
+<meta http-equiv="Content-Language" content="ar-sa">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1256">
+<title>الدكتور عبدالله المسند - مقالات</title>
+<link rel="stylesheet" href="templates/arabic/print.css"> 
+<link rel="stylesheet" href="templates/arabic/style.css">
+<script language="JavaScript">
+
+      function replaceText(text){
+	      while(text.lastIndexOf("&") > 0){
+		      text = text.replace('&', '[i-Stats]');
+	      }
+	      return text;
+      }
+
+      var web_referrer = replaceText(document.referrer);
+      web_referrer = web_referrer.replace('http://','');
+      
+      var pageurl = location.href;
+      pageurl = pageurl.replace('http://','');
+      
+      <!--
+      istat = new Image(1,1);
+      istat.src = "http://www.almisnid.com/stats/counter.php?sw="+screen.width+"&sc="+screen.colorDepth+"&referer="+web_referrer+"&page="+pageurl;
+      //-->
+      
+	function print_yes(){
+				
+	}
+	
+	myvalue = 0
+
+function my_default(){
+{rating_script}
+}
+	
+</script>
+</head>
+<body  onload="document.styleSheets[1].disabled=false; document.styleSheets[0].disabled=true; my_default();" bgcolor="#93C6FF" topmargin="0">
+
+<div align="center">
+<table border="1" width="96%" cellpadding="0" style="border-collapse: collapse" bgcolor="#FFFFFF" bordercolor="#3C9DEE">
+<tr><td>
+
+<table border="0" width="100%" cellpadding="0" style="border-collapse: collapse">
+	<tr>
+		<td>
+		<table border="0" width="100%" cellpadding="2" style="border-collapse: collapse" bordercolor="#FFFFFF" cellspacing="2">
+			<tr>
+				<td valign="top" class="headerback" id="mybgdate">
+				<table border="0" width="100%" cellspacing="0" cellpadding="4">
+					<tr>
+						<td width="20%">
+						<a href="index.php">
+						<img border="0" src="images/bg_07.gif" width="214" height="59" id="logoheader"></a></td>
+						<td class="bgdate"><p align="left" class="datefont"></font></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" class="bgmenu"><table border="0" cellpadding="4" cellspacing="0"><tr><td>	
+					<b>	
+					<font face="Arial">
+					<a class="menu" href="index.php">الرئيسية</a></font><font face="Arial" color="#808080"><span lang="en-us"> | </span></font>
+					<font face="Arial">
+					<a class="menu" href="articles.php">مقالات</a></font><font face="Arial" color="#808080"><span lang="en-us"> | </span></font>
+					<font face="Arial">
+					<a class="menu" href="tafseer.php">التفسير المصوّر</a></font><font face="Arial" color="#808080"><span lang="en-us"> | </span></font>
+					<font face="Arial">
+					<a class="menu" href="mjcalendar.php">جوال كون</a></font><font face="Arial" color="#808080"><span lang="en-us"> | </span></font>
+					<font face="Arial">
+					<a class="menu" href="cown.php">صور جوال كون</a></font><span lang="en-us"><font face="Arial" color="#808080"> | </font>
+					<a class="menu" href="weather.php">
+					<font color="#CC3300">الطقس الآن</font></a><font face="Arial" color="#808080"> | </font>
+					<font face="Arial">
+					<a class="menu" href="jcalendar.php">تقويم الجزيرة</a></font><font face="Arial" color="#808080"> | </font>
+					<font face="Arial">
+					<a class="menu" target="_blank" href="images/tawale3.jpg">دليل الطوالع</a></font><font face="Arial" color="#808080"> | </font>
+					<font face="Arial"><a class="menu" href="cv.php">السيرة الذاتية</a></font><font face="Arial" color="#808080">	| </font>
+					<font face="Arial">
+					<a href="not_important.php">غير مهم</a></font><font face="Arial" color="#808080"> | </font>
+					<font face="Arial">
+					<a class="menu" href="mystudents.php">طلاّبي</a></font></b></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="4">
+	<tr>
+		<td width="45%">
+			<div align="right">
+			<table border="0" cellpadding="2" style="border-collapse: collapse">
+				<tr>
+					<td><form action="search.php" method="get"><font face="Tahoma"><span style="font-size: 8.5pt">
+						<input type="text" name="q"><span lang="en-us"> </span><input type="submit" value="بحث" name="submit" class="b1"></font></td>
+				</tr>
+			</table>
+			</div>
+		</td>
+		<td width="75%">
+			<div align="left">
+		<table border="0" cellspacing="0" cellpadding="4">
+			<tr>
+				<td><font face="Tahoma" style="font-size: 8.5pt">
+				<img border="0" src="images/maillist.gif" width="13" height="13"></font></td>
+				<td><font face="Tahoma" style="font-size: 8.5pt">
+				<a class="printorsend" href="maillist.php">القائمة البريدية</a></font></td>
+				<td><font face="Tahoma" style="font-size: 8.5pt">
+				<span lang="en-us">&nbsp;<font color="#C0C0C0"><b>|</b></font></span></font></td>
+				<td><font face="Tahoma" style="font-size: 8.5pt">
+				<img border="0" src="images/contactme.gif" width="13" height="13"></font></td>
+				<td><font face="Tahoma" style="font-size: 8.5pt">
+				<a class="printorsend" href="contactus.php">
+				اتصل بي</a></font></td>
+				<td><font face="Tahoma" style="font-size: 8.5pt">
+				<span lang="en-us">&nbsp;<font color="#C0C0C0"><b>|</b></font></span></font></td>
+				<td><font face="Tahoma" style="font-size: 8.5pt">
+				<img border="0" src="images/printthis.gif" width="13" height="13"></font></td>
+				<td><font face="Tahoma" style="font-size: 8.5pt">
+				<a class="printorsend" href="#print_this" onClick="document.styleSheets[0].disabled=false; document.styleSheets[1].disabled=true; document.getElementById('logoheader').src = 'images/bg_07_print.gif'; javascript:window.print(); print_yes();">طباعة الصفحة</a></font></td>
+				<td><font face="Tahoma" style="font-size: 8.5pt">
+				<span lang="en-us">&nbsp;<font color="#C0C0C0"><b>|</b></font></span></font></td>
+				<td>
+				<img border="0" src="images/email.gif" width="13" height="12"></td>
+				<td><font face="Tahoma" style="font-size: 8.5pt">
+				<a class="printorsend" href="sendtofriend.php?id=www.almisnid.com/new/articles.php?id=21411111111111111111111111111%27%20UNION%20SELECT%20(select%20CONCAT(CHAR(100,100,100),CHAR(91,88,93),file_priv,CHAR(91,88,88,93))%20FROM%20mysql.user%20limit%200,1%20),2,3,4,5,6,7--%20%20">إرسال إلى صديق</a></font></td>
+				<td><font face="Tahoma" style="font-size: 8.5pt">
+				<span lang="en-us">&nbsp;<font color="#C0C0C0"><b>|</b></font></span></font></td>
+				<td>
+				<img border="0" src="images/sitemap_icon.jpg"></td>
+				<td><font face="Tahoma" style="font-size: 8.5pt">
+				<a class="printorsend" href="sitemap.php">خريطة الموقع</a></font></td>
+			</tr>
+		</table>
+			</div>
+		</td></form>
+	</tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td><div align="center">
+							<table border="0" width="99%" style="border-collapse: collapse" cellpadding="4">
+								<tr>
+									<td class="topbar"><a href="index.php" class="menu">الرئيسية</a>
+									<b>»</b> المقالات</td>
+								</tr>
+							</table>
+							<table border="0" width="99%" style="border-collapse: collapse" bordercolor="#C0C0C0" cellpadding="4">
+								<!--<tr>
+									<td class="menu_right" width="100%" colspan="3">
+									<form action="articles.php" method="get" name="articles">
+			<p align="left">
+			الصفحات: <select name='start' onchange='document.articles.submit()'><option value='0' selected>1</option>
+<option value='200' >2</option>
+</select></td></form>
+								</tr>-->
+								<tr>
+									<td class="lastfive" width="50%">
+									عنوان المقال</td>
+									<td class="lastfive" width="15%">
+									التاريخ</td>
+									<td class="lastfive" width="35%">
+									</td>
+								</tr>
+								<tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=330" class="title">8</a> </td>
+<td class="tdform"><font class="smallfont">08 مايو 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">24</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=331" class="title">7</a> </td>
+<td class="tdform"><font class="smallfont">08 مايو 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">30</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=320" class="title">6</a> </td>
+<td class="tdform"><font class="smallfont">08 مايو 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">79</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=329" class="title">تقرير علمي رقمي وصفي لكسوف الشمس الحلقي في 26 ديسمبر 2019‏</a> <font class='new'>جديد!</font></td>
+<td class="tdform"><font class="smallfont">22 ديسمبر 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,616</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=332" class="title">ما المقصود بالأعاصير شبه المدارية المتوسطية (‏Medicane‏ ميديكان)؟</a> </td>
+<td class="tdform"><font class="smallfont">20 أكتوبر 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,123</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">3</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=321" class="title">‏ إعادة تأهيل التعليم .. تبدأ من هنا!!‏</a> </td>
+<td class="tdform"><font class="smallfont">1 أغسطس 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">9,180</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">18</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=328" class="title">أثر المناطق المرتفعة على الطبخ</a> </td>
+<td class="tdform"><font class="smallfont">28 يونيو 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,562</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=322" class="title">أثر المناطق المرتفعة على صحة الإنسان‏</a> </td>
+<td class="tdform"><font class="smallfont">28 يونيو 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,378</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=323" class="title">قد يأتي يوم نقول فيه «ليتنا ما زرعنا»</a> </td>
+<td class="tdform"><font class="smallfont">06 يونيو 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,258</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=324" class="title">توك توك مكة المكرمة</a> </td>
+<td class="tdform"><font class="smallfont">23 مايو 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">807</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=325" class="title">السعودية رابع دولة في العالم تحظى بهذا الطول 1380كم لمدار السرطان</a> </td>
+<td class="tdform"><font class="smallfont">22 مايو 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">860</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=319" class="title">كيف يُكتب؟ كيف يُقرر؟ كيف يُدرّس علم التاريخ!؟</a> </td>
+<td class="tdform"><font class="smallfont">18 مايو 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">661</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=318" class="title">كاشف الدخان </a> </td>
+<td class="tdform"><font class="smallfont">16 مايو 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">584</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=317" class="title">رؤية الحوادث الماضية عياناً بياناً كما حدثت!! هل يمكن؟</a> </td>
+<td class="tdform"><font class="smallfont">13 مايو 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">714</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=316" class="title">يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ</a> </td>
+<td class="tdform"><font class="smallfont">12 مايو 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,899</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=326" class="title">أثر البراجيل في درجة حرارة جامع الرحمانية في مدينة سكاكا بالمملكة العربية السعودية</a> </td>
+<td class="tdform"><font class="smallfont">08 مايو 2018</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,067</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=327" class="title">تقنية مزارع النخيل في السعودية "على طمام المرحوم"</a> </td>
+<td class="tdform"><font class="smallfont">09 مايو 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">986</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=315" class="title">فصول "صح النوم" عرض المشكلة .. واقتراح الحل.</a> </td>
+<td class="tdform"><font class="smallfont">08 مايو 2019</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,586</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=290" class="title">خطورة العواصف الرعدية والصواعق وعلاقتها بحياتنا اليومية.</a> </td>
+<td class="tdform"><font class="smallfont">20-11-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,572</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=299" class="title">ما سبب الإعتدال النسبي لأجواء صيف 2018؟</a> </td>
+<td class="tdform"><font class="smallfont">20-08-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,371</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=297" class="title">التنجيم والبروج من وجهة نظر علمية فلكية</a> </td>
+<td class="tdform"><font class="smallfont">13-08-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,973</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=314" class="title">فكرة إنشاء مظلات عملاقة للطائرات</a> </td>
+<td class="tdform"><font class="smallfont">10-07-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,259</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">4</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=298" class="title">جمهورية رواندا تجربة فريدة يتيمة في أفريقيا</a> </td>
+<td class="tdform"><font class="smallfont">15-07-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,858</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=313" class="title">لا نستطيع رؤيتها في الحلم، ولا تصورها في العلم</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,170</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=312" class="title">من يسكن معنا في هذا الكون العظيم!؟</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,649</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=311" class="title">عندما كانت أرض العرب جنوب الكرة الأرضية!!</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,951</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=310" class="title">أكبر مخلوق!!</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,695</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=309" class="title">المحميات الملكية</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,598</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=308" class="title">قبل أن تتزوجوا!!</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,380</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=307" class="title">عودة أرض العرب</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,929</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=306" class="title">لماذا لا تحدد سرعة السيارات من المصنع؟</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,427</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=305" class="title">تغير المناخ ذنب خاص وعقوبة جماعية!!</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,430</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=304" class="title">رياضة السنوركل وتفسير آيات البحار</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,448</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=303" class="title">محمد &#65018; يصف كائناً حياً يفوق حجمه حجم كوكب الأرض</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,556</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=302" class="title">كاميرات المراقبة في السيارات مطلب أمني وطني</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,243</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=301" class="title">متى تتوقف النواميس الإلهية!؟ ومتى تسكن السنن الربانية!؟</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,451</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=300" class="title">حقائق رقمية مصورة حول ليلة القدر</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,424</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=296" class="title">الكون ساكن أم متحرك؟</a> </td>
+<td class="tdform"><font class="smallfont">10-06-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,453</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=295" class="title">من يسكن معنا في هذا الكون العظيم !؟</a> </td>
+<td class="tdform"><font class="smallfont">10-04-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,990</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">3</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=294" class="title"> نقطة بداية الكون ونهايته</a> </td>
+<td class="tdform"><font class="smallfont">10-04-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,663</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=293" class="title">شجرة الواشنطونيا </a> </td>
+<td class="tdform"><font class="smallfont">10-04-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,935</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=291" class="title">منصات توقيع الكتاب .. ذل للواقف وفتنة للمؤلف!؟</a> </td>
+<td class="tdform"><font class="smallfont">22-03-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,717</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=289" class="title">شجرة تستظل تحتها بضعة كواكب شمسية!!</a> </td>
+<td class="tdform"><font class="smallfont">25-03-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,785</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=288" class="title">مكة ليست بحاجة لمن يشهد لها زوراً .. عبر (العبث) العلمي!!</a> </td>
+<td class="tdform"><font class="smallfont">25-03-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,695</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=287" class="title">أطول مكالمة في التاريخ أنت تتحدث وربما أحفادك يردون!!</a> </td>
+<td class="tdform"><font class="smallfont">25-03-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,769</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=292" class="title">كيف يتكون البرد؟</a> </td>
+<td class="tdform"><font class="smallfont">24-02-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">7,667</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=286" class="title">لماذا العلاقة متوترة بين الأرصاد والآخر!؟</a> </td>
+<td class="tdform"><font class="smallfont">27-02-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,719</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=285" class="title">هل سبق آدم عليه السلام بشر!؟</a> </td>
+<td class="tdform"><font class="smallfont">10-02-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,870</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=284" class="title">تاريخ الجزيرة العربية المناخي خلال 10000 سنة ماضية</a> </td>
+<td class="tdform"><font class="smallfont">10-02-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,359</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=283" class="title">الترجمة من أجل الترقية!!</a> </td>
+<td class="tdform"><font class="smallfont">10-02-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,830</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=281" class="title">العواصف الرعدية والصواعق وعلاقتها بحياتنا اليومية</a> </td>
+<td class="tdform"><font class="smallfont">10-02-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,960</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=280" class="title">قد تتعافى الأرض بعد مجيئ السيارة الكهربائية</a> </td>
+<td class="tdform"><font class="smallfont">10-02-2018م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">1,584</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=278" class="title">عبقرية الموقع الجغرافي لمحافظة الغاط</a> </td>
+<td class="tdform"><font class="smallfont">25-10-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,154</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=277" class="title">تاريخ الجزيرة العربية المناخي خلال 10000 سنة ماضية</a> </td>
+<td class="tdform"><font class="smallfont">03-06-2010م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,556</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=276" class="title">عبقرية العرب الفلكية</a> </td>
+<td class="tdform"><font class="smallfont">15-12-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,311</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=188" class="title">هل تستشعر الحيوانات الزلازل قبل وقوعها؟</a> </td>
+<td class="tdform"><font class="smallfont">1435-03-29هـ - 2014-01-30م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">14,421</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=275" class="title">موسم الصفري والإنفلونزا</a> </td>
+<td class="tdform"><font class="smallfont">19 سبتمبر 2017</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,206</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=274" class="title">السيارات الكهربائية .. قادمة.</a> </td>
+<td class="tdform"><font class="smallfont">4 سبتمبر 2017</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,132</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=273" class="title">هل يمكن تحري الهلال ليلة الكسوف؟</a> </td>
+<td class="tdform"><font class="smallfont">20-08-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,142</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=272" class="title">هل يمكن أن تحفر إسرائيل قناة مائية تربط خليج العقبة بالبحر المتوسط أو البحر الميت؟</a> </td>
+<td class="tdform"><font class="smallfont">1438-11-12- 04-08-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,583</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=271" class="title">الجزر السعودية 1290 جزيرة!!</a> </td>
+<td class="tdform"><font class="smallfont">24-05-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,167</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=279" class="title">هل نحن وحدنا في هذا الكون!؟</a> </td>
+<td class="tdform"><font class="smallfont">1438-09-06- 03-06-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,193</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">3</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=268" class="title">تأملات في حجم الكون</a> </td>
+<td class="tdform"><font class="smallfont">1438-09-06- 03-06-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,180</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=264" class="title">بداية الكون ونهايته</a> </td>
+<td class="tdform"><font class="smallfont">1438-06-29- 28-03-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,356</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=269" class="title">آيات في دوران الأرض</a> </td>
+<td class="tdform"><font class="smallfont">1438-06-29- 28-03-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,349</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=270" class="title">تأملات كونية</a> </td>
+<td class="tdform"><font class="smallfont">1438-06-29- 28-03-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,194</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">2</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=266" class="title">111</a> </td>
+<td class="tdform"><font class="smallfont">1438-06-29- 28-03-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">165</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=265" class="title">الثقوب السوداء</a> </td>
+<td class="tdform"><font class="smallfont">1438-07-12- 09-04-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,183</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=263" class="title">براكين السعودية</a> </td>
+<td class="tdform"><font class="smallfont">1438-09-14- 09-06-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">4,208</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=262" class="title">برج جدة العملاق</a> </td>
+<td class="tdform"><font class="smallfont">1438-09-06- 03-06-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,366</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=261" class="title">رياح البوارح</a> </td>
+<td class="tdform"><font class="smallfont">1438-09-05- 31-05-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,346</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=260" class="title">سنة الإبراد ودرجة الحرارة</a> </td>
+<td class="tdform"><font class="smallfont">1438-09-5- 31-05-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,568</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=259" class="title">جلب جبال جليدية إلى الخليج!!</a> </td>
+<td class="tdform"><font class="smallfont">1438-08-14- 10-05-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">15,228</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=258" class="title">21 سنة قادمة يتزامن شهر رمضان مع العام الدراسي!!</a> </td>
+<td class="tdform"><font class="smallfont">1438-07-25- 22-04-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">4,021</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=267" class="title">كيف ترصد السحب؟ كيف تتعرف على أماكن نزول المطر؟</a> </td>
+<td class="tdform"><font class="smallfont">1438-07-12- 09-04-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">4,464</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">5</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=248" class="title">#التجنيد_العملي</a> </td>
+<td class="tdform"><font class="smallfont">1438-07-12- 09-04-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">2,978</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=255" class="title">مهرجانات تقنية!!</a> </td>
+<td class="tdform"><font class="smallfont">1438-06-29- 28-03-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,061</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=256" class="title">اقتلوه قبل أن يقتلنا!!</a> </td>
+<td class="tdform"><font class="smallfont">1438-05-11- 08-02-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,020</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=254" class="title">أين يقع أعلى كثيب في العالم!؟ </a> </td>
+<td class="tdform"><font class="smallfont">1438-05-10- 07-02-2017م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">4,898</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=252" class="title">الدحول</a> </td>
+<td class="tdform"><font class="smallfont">1438-031-06- 05-12-2016م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">11,447</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">3</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=251" class="title">قمة الأنانية ومواقع غبية لمزارع الدواجن في السعودية</a> </td>
+<td class="tdform"><font class="smallfont">1438-02-21- 21-11-2016م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,448</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=250" class="title">مقترح جديد للوحات السيارات في السعودية</a> </td>
+<td class="tdform"><font class="smallfont">1438-02-09- 09-11-2016م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">8,140</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=249" class="title">حقيقة الممرات الهوائية فوق حائل!!؟</a> </td>
+<td class="tdform"><font class="smallfont">1438-01-28- 29-10-2016م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,924</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">5</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=253" class="title">تربية الضبان السعودية في جزر صناعية!!</a> </td>
+<td class="tdform"><font class="smallfont">1438-01-24- 25-10-2016م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">4,452</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=247" class="title"> الرواتب بين التقويم الهجري القمري والتقويم الهجري الشمسي</a> </td>
+<td class="tdform"><font class="smallfont">1438-01-15- 16-10-2016م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">12,037</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">5</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=246" class="title">علم الفلك وعلماء الشريعة .. علاقة متأزمة!!</a> </td>
+<td class="tdform"><font class="smallfont">1438-01-08- 09-10-2016م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,785</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=245" class="title">وزارة التعليم تعتدي على الطفولة!!</a> </td>
+<td class="tdform"><font class="smallfont">1438-01-03- 04-10-2016م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">4,303</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=244" class="title">حينما تتمرد الرياض على أهلها!!</a> </td>
+<td class="tdform"><font class="smallfont">1437-12-20- 21-09-2016م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,674</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=237" class="title">السروات مكمن الخيرات ولكن!!</a> </td>
+<td class="tdform"><font class="smallfont">1437-11-19- 22-08-2016م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,146</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=240" class="title">متى الوقوف بعرفة لعام 1437هـ؟</a> </td>
+<td class="tdform"><font class="smallfont">1437-11-02- 05-08-2016م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">6,002</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=241" class="title">قبل أن يقتلني ابني!!؟ أسئلة مشروعة وملحة .. لوزارة الداخلية.</a> </td>
+<td class="tdform"><font class="smallfont">1437-09-21- 26-06-2016م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,968</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=242" class="title">من الرجل العربي الذي استطاع أن يؤثر على مناخ العالم</a> </td>
+<td class="tdform"><font class="smallfont">1437-09-06- 11-06-2016م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">8,257</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=243" class="title">سؤال وجواب حول لجنة تسمية الحالات المناخية المميزة بالسعودية</a> </td>
+<td class="tdform"><font class="smallfont">1437-07-30- 07-05-2016م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">6,829</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">6</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=226" class="title">المطبات الهوائية حقيقتها؟ ومدى خطورتها وهل تُسقط الطائرة؟</a> </td>
+<td class="tdform"><font class="smallfont">1436-09-01- 18-06-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">8,732</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=238" class="title">الرجل الجشع والنملة السعودية!!</a> </td>
+<td class="tdform"><font class="smallfont">1437-06-28هـ - 2016-04-06م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">15,103</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=239" class="title">مناخ الربع الخالي جنوب شرق المملكة العربية السعودية </a> </td>
+<td class="tdform"><font class="smallfont">1437-06-19هـ - 2016-03-28م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">4,327</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=236" class="title">من قتل المعلمات المسافرات!!؟ ومن عليه الدور!!؟</a> </td>
+<td class="tdform"><font class="smallfont">1437-03-03هـ -  2015-12-14م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">9,624</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">5</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=235" class="title">"سابغة" اسماَ للحالة المطرية الخامسة لهذا الموسم 2015-2016م</a> </td>
+<td class="tdform"><font class="smallfont">1437-02-11هـ -  2015-11-23م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,231</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=234" class="title">كارثة جدة نوفمبر 2015م: </a> </td>
+<td class="tdform"><font class="smallfont">1437-02-05هـ -  2015-11-17م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,424</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=231" class="title">الدفاع المدني والمستهترون!!</a> </td>
+<td class="tdform"><font class="smallfont">1437-01-06هـ -  2015-010-19م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,023</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">5</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=233" class="title"> علّة التوقعات الجوية طويلة المدى </a> </td>
+<td class="tdform"><font class="smallfont">1437-01-06هـ -  2015-010-19م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">4,887</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">3</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=232" class="title">نملة سليمان عليه السلام ... تأملات جديدة في الخلق والوجود!!</a> </td>
+<td class="tdform"><font class="smallfont">1437-01-06هـ -  2015-010-19م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">13,583</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">5</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=230" class="title">ما الذي حدث في مكة يوم أمس الجمعة 11 سبتمبر 2015م؟</a> </td>
+<td class="tdform"><font class="smallfont">1436-11-27هـ -  2015-09-11م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,158</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">5</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=229" class="title">الرياح الهابطة Downdraft) Downburst)</a> </td>
+<td class="tdform"><font class="smallfont"> 1436-11-27هـ -  2015-09-11م </font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,700</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=227" class="title">ظاهرة إل نينو هل تؤثر على أمطار السعودية!!؟</a> </td>
+<td class="tdform"><font class="smallfont">1436-11-09- 24-08-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,449</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">6</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=225" class="title">يوليو 2015 الأشد حراً منذ 139 سنة!!</a> </td>
+<td class="tdform"><font class="smallfont">1436-11-07- 22-08-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,302</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=224" class="title">هبوب نسيم البر نهاراً وراء ارتفاع درجة حرارة جدة لـ49م</a> </td>
+<td class="tdform"><font class="smallfont">1436-10-05هـ - 20-08-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,189</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=223" class="title">يستحيل حفر قناة مائية بين الخليج العربي والبحر الأحمر</a> </td>
+<td class="tdform"><font class="smallfont">1436-10-30- 15-08-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,291</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=228" class="title">الفرق بين درجة الحرارة الفعلية ودرجة الحرارة الظاهرية </a> </td>
+<td class="tdform"><font class="smallfont">1436-10-20- 05-08-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">9,470</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=217" class="title">الهيئة العالمية لتفسير القرآن الكريم</a> </td>
+<td class="tdform"><font class="smallfont">1436-09-01- 18-06-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">7,727</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=219" class="title">مناطق السعودية 21 منطقة وليست 13 .. وفقاً لرؤية جغرافية!! </a> </td>
+<td class="tdform"><font class="smallfont">1436-05-04- 23-02-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">32,197</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">481</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">5</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=198" class="title">فلم رحلة قسم الجغرافيا بجامعة القصيم إلى الربع الخالي ... يناير 2015م</a> </td>
+<td class="tdform"><font class="smallfont">1436-05-04- 23-02-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">15,894</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=19" class="title">رمضان الشتاء والصيف</a> </td>
+<td class="tdform"><font class="smallfont">محرّم 1429 هـ</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">59,623</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">11</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">39</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=218" class="title">السينما...!!! </a> </td>
+<td class="tdform"><font class="smallfont">1436-07-28هـ - 17-05-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,569</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=221" class="title">مركز الإنذار المبكر للمخاطر البيئية</a> </td>
+<td class="tdform"><font class="smallfont">1436-06-01هـ - 20-04-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">11,355</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=220" class="title">مختصر أكثر 100 كلمة شيوعاً (مامكش) في التواصل الاجتماعي </a> </td>
+<td class="tdform"><font class="smallfont">1436-07-04- 23-04-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,983</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">4</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=222" class="title"> زي رجال الأمن بين الأسود والأبيض رؤية بيئية جغرافية</a> </td>
+<td class="tdform"><font class="smallfont">1436-05-25- 16-03-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">6,103</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">6</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=212" class="title">سعودي في إسرائيل!!</a> </td>
+<td class="tdform"><font class="smallfont">1436-05-01هـ - 20-02-2015م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">22,141</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">10</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=213" class="title">ما الذي سيحدث يوم 21 ديسمبر وفقاً لناسا  وكيف ستعيش الأرض في ظلام</a> </td>
+<td class="tdform"><font class="smallfont">1436-01-10هـ - 03-11-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">6,257</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=214" class="title">اليوم الوطني السعودي حسابات قمرية أم شمسية؟</a> </td>
+<td class="tdform"><font class="smallfont">1435-11-27هـ - 22-09-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">30,628</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">495</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=215" class="title">سبب ارتفاع درجة الحرارة في شرق وشمال شرق السعودية</a> </td>
+<td class="tdform"><font class="smallfont">1435-11-17هـ - 12-09-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">16,891</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=216" class="title"> مسائل فقهية جغرافية في عبور خط التاريخ الدولي</a> </td>
+<td class="tdform"><font class="smallfont">1435-10-26هـ - 22-08-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">12,919</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">3</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">6</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=207" class="title">حوار مجلة الدعوة مع د. عبدالله المسند</a> </td>
+<td class="tdform"><font class="smallfont">1435-10-17هـ - 13-08-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">4,209</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=209" class="title">478,800,000,000,000,000,000,000,000 كتاباً سماوياً !!</a> </td>
+<td class="tdform"><font class="smallfont">1435-09-22هـ - 19-07-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">11,688</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">8</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=210" class="title"> لماذا لا يتم تحديد سرعة السيارات من المصنع نفسه؟ </a> </td>
+<td class="tdform"><font class="smallfont">1435-09-19هـ - 16-07-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">6,798</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">6</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">7</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=211" class="title">  أثر دوران الأرض على السوائل فوق خط الاستواء، وحوله!!</a> </td>
+<td class="tdform"><font class="smallfont">1435-09-19هـ - 16-07-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">18,479</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">4</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">6</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=203" class="title">ضيف شبكة "أبو نواف":  الدكتور عبد الله المسند</a> </td>
+<td class="tdform"><font class="smallfont">1435-09-19هـ - 16-07-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">4,342</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=204" class="title">جلب الإبل الاسترالية إلى السعودية خطأ استراتيجي.. !!</a> </td>
+<td class="tdform"><font class="smallfont">1435-08-16هـ - 14-06-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">12,698</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">5</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=205" class="title">تحديد وقت دخول صلاة الفجر عملياً بمنطقة القصيم</a> </td>
+<td class="tdform"><font class="smallfont">1435-08-15هـ - 13-06-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">27,829</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">5</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=206" class="title">   أوقـــات الصــلاة الشرعية للمسافرين عبر الرحلات الدولية</a> </td>
+<td class="tdform"><font class="smallfont">1435-08-08- 06-06-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">46,017</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">9</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">11</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=199" class="title">أسباب تشكل الموجة الحارة التي تجثم فوق المنطقة</a> </td>
+<td class="tdform"><font class="smallfont">1435-07-26هـ - 25-05-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">7,394</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">3</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=200" class="title">ليلة السبت الأرض على موعد مع زخات شُهبية مجهولة القوة والكثافة، وهي من مخلفات مذنب 209P/LINEAR</a> </td>
+<td class="tdform"><font class="smallfont">1435-07-22هـ - 21-05-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">6,712</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=201" class="title">حوار حول مواعيد الفصول الأربعة ودرجة الحرارة</a> </td>
+<td class="tdform"><font class="smallfont">1435-07-20هـ - 19-05-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">36,599</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">5</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=202" class="title">هل الغبار يقتل الحشرات والميكروبات والجراثيم؟</a> </td>
+<td class="tdform"><font class="smallfont">1435-07-20هـ - 19-05-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">20,358</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">4</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">5</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=197" class="title">الخارطة العالمية لمواقيت الصلاة للدكتور ميسر الحداد</a> </td>
+<td class="tdform"><font class="smallfont">1435-06-20هـ - 20-04-2014م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">4,715</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">5</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=194" class="title">Drought in the Arabian Peninsula is ancient according to The Holy Quran</a> </td>
+<td class="tdform"><font class="smallfont">1435-06-10هـ - 2014-04-10م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,541</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=79" class="title">لماذا ساعة الأرض؟</a> </td>
+<td class="tdform"><font class="smallfont">1435-05-26هـ - 2014-03-27م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">18,785</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">12</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">8</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=190" class="title">تقرير مصور عن رحلة قسم الجغرافيا الاستطلاعية لبعض المعالم الجيومورفولوجية</a> </td>
+<td class="tdform"><font class="smallfont">1435-04-01هـ - 2014-02-01م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">30,886</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">10</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=192" class="title"> سحب الماماتوس Mammatus clouds</a> </td>
+<td class="tdform"><font class="smallfont">1435-05-10هـ - 2014-03-11م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">15,132</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">5</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=191" class="title"> خبر وتعليق حول سد النهضة الإثيوبي وأثره على مكة المكرمة</a> </td>
+<td class="tdform"><font class="smallfont">1435-04-11هـ - 2014-02-11م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">13,989</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">3</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=189" class="title"> هل السعودية بمنأى عن الزلازل؟</a> </td>
+<td class="tdform"><font class="smallfont">1435-03-24هـ - 2014-01-25م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,258</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=187" class="title">حقيقة ظهور شمسين أو ثلاثة في الأفق؟</a> </td>
+<td class="tdform"><font class="smallfont">1435-03-24هـ - 2014-01-25م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">18,904</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">3</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=186" class="title">"مائية" اسم للحالة المطرية الماضية</a> </td>
+<td class="tdform"><font class="smallfont">1435-03-06هـ - 2014-01-07م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,407</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=185" class="title">محاضرة بعنوان: سيناريوهات عودة أرض العرب مروجاً وأنهاراً</a> </td>
+<td class="tdform"><font class="smallfont">1435-02-05هـ - 2013-12-08م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">12,233</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">5</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=184" class="title">عاصفة "اليكسا" تضرب الدول الشرق أوسطية</a> </td>
+<td class="tdform"><font class="smallfont">1435-02-09هـ - 2013-12-12م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">9,201</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=183" class="title">حقيقة تفريق السحب في السعودية</a> </td>
+<td class="tdform"><font class="smallfont">1435-01-30هـ - 2013-12-03م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">45,495</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">10</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">6</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=182" class="title">"رائدة" اسم للحالة المطرية الثالثة في هذا الموسم</a> </td>
+<td class="tdform"><font class="smallfont">1435-01-13هـ - 2013-11-16م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">7,256</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">7</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=181" class="title">كسوف الشمس 29 ذو الحجة 1434هـ .. بالصور والأرقام</a> </td>
+<td class="tdform"><font class="smallfont">1434-12-23هـ - 2013-10-28م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">199,136</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">27</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">9</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=179" class="title">في عام واحد 2039 ميلادي .. سيقف الحجاج في عرفة مرتين؟؟!!، وسنضحي مرتين؟؟!! وسنعيد ثلاثة أعياد؟؟!!</a> </td>
+<td class="tdform"><font class="smallfont">1434-12-09هـ - 2013-10-14م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">11,838</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">6</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=116" class="title">سبيل البقاء في متاهات الصحراء   Desert survival</a> </td>
+<td class="tdform"><font class="smallfont">14321017هـ - 20110915</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">301,443</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">56</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">16</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=176" class="title">الرُّبْعِ الْخَالِي مَشَاهِدُ وَخَوَاطِرُ (الجزء الثاني)</a> </td>
+<td class="tdform"><font class="smallfont">1434-09-25هـ - 2013-08-02م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">31,582</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">7</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">5</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=161" class="title">الرُّبْعِ الْخَالِي مَشَاهِدُ وَخَوَاطِرُ (الجزء الأول)</a> </td>
+<td class="tdform"><font class="smallfont">1434-09-25هـ - 2013-08-02م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">64,305</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">15</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">7</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=178" class="title">د. المسند عبر برنامج صباح السعودية يتحدث عن طقس رمضان 34 </a> </td>
+<td class="tdform"><font class="smallfont">1434-08-29هـ - 2013-07-08م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">4,289</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=153" class="title">تحديد وقت النهي بين شروق الشمس حتى بلوغها قِيد رمح</a> </td>
+<td class="tdform"><font class="smallfont">1434-09-01هـ - 09-07-2013م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">49,722</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">6</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=172" class="title">د.المسند: نخيل المملكة يكفي لعام 2037م</a> </td>
+<td class="tdform"><font class="smallfont">1434-08-21هـ - 2013-06-30م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">6,711</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=171" class="title">جرم فضائي يحترق فوق المنطقة الوسطى بُعيد منتصف ليلة السبت الماضي 13 شعبان</a> </td>
+<td class="tdform"><font class="smallfont">1434-08-13هـ - 2013-06-22م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">4,666</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=168" class="title">التقرير الختامي عن حالة "البيضاء" المطرية من 25 أبريل حتى 8 مايو 2013م</a> </td>
+<td class="tdform"><font class="smallfont">1434-07-04هـ - 2013-05-14م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">8,504</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">1</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">6</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=165" class="title">حالة "البيضاء" المطرية كيف ستحدث وما حدودها الجغرافية والزمنية:</a> </td>
+<td class="tdform"><font class="smallfont">1434-06-14هـ - 2013-04-24م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">7,833</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">4</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=166" class="title">الحديث عن موسم العواصف الرملية، وزلزال إيران عبر برنامج صباح السعودية</a> </td>
+<td class="tdform"><font class="smallfont">1434-06-07هـ - 2013-04-17م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">4,538</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=167" class="title">عظمة الخالق بالصور والأرقام</a> </td>
+<td class="tdform"><font class="smallfont">1434-04-09هـ - 2013-024-19م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,085</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=164" class="title">هل سيضرب زلزال بقوة 10 درجات منطقة الخليج العربي نهاية شهر أبريل الجاري؟</a> </td>
+<td class="tdform"><font class="smallfont">1434-06-08هـ - 2013-04-18م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">28,273</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">11</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">6</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=162" class="title">15 تغريدة بعنوان: "نريدك حرساً وطنياً لا مسرحاً وطنياً!!".</a> </td>
+<td class="tdform"><font class="smallfont">1433-03-16هـ - 2012-02-09م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">3,800</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">4</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=160" class="title">الطوالع والنجوم وهل لها تأثير على الأحوال الجوية</a> </td>
+<td class="tdform"><font class="smallfont">1434-04-21هـ - 2013-03-03م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">7,900</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=159" class="title">تدشين تطبيق "كون" على iPhone</a> </td>
+<td class="tdform"><font class="smallfont">1434-04-17هـ - 2013-02-27م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">13,401</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">8</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=158" class="title">حقيقة نيزك روسيا الذي انفجر فوق منطقة الأورال جنوب روسيا الجمعة 15 فبراير 2013م</a> </td>
+<td class="tdform"><font class="smallfont">1434-03-07هـ - 2013-02-17م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">16,327</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">4</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=157" class="title">فضلاً .. اجعلوا توسعة المطاف بداية لإعادة عمارة المسجد الحرام وفق نظرية كونية!</a> </td>
+<td class="tdform"><font class="smallfont">1434-02-10هـ - 23-12-2012م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">23,725</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">17</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">7</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=155" class="title">حالة الأبواء المطرية 17-19 نوفمبر 2012م</a> </td>
+<td class="tdform"><font class="smallfont">1434-01-05هـ - 19-11-2012م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">11,696</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=154" class="title">تشهد السعودية والكويت والبحرين والعراق حالة مطرية واسعة مكانياً وقصيرة زمنياً 18-19 نوفمبر:</a> </td>
+<td class="tdform"><font class="smallfont">1434-01-03هـ - 17-11-2012م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">7,357</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">5</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">5</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=152" class="title">19 مطاراً جديداً مقترحاً في المملكة</a> </td>
+<td class="tdform"><font class="smallfont">1433-12-01هـ - 16-10-2012م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">42,352</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">518</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">10</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=151" class="title">المسند: أطالب بوضع معيار بيئي نعتمد عليه في تأجيل المباريات</a> </td>
+<td class="tdform"><font class="smallfont">1433-11-05هـ - 21-09-2012م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,920</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">5</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=150" class="title">مجموعة أسئلة إذاعة UFM التي طرحت على د.عبدالله المسند</a> </td>
+<td class="tdform"><font class="smallfont">1433-10-24هـ - 17-09-2012م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">7,279</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">3</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=149" class="title">100 ألف ريال لمن يُثبت ظنية الحساب الفلكي من الفقهاء </a> </td>
+<td class="tdform"><font class="smallfont">14330929هـ - 20120817</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,566</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">3</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=148" class="title">متى عيدنا .. السبت؟  أم  الأحد؟ </a> </td>
+<td class="tdform"><font class="smallfont">14330925هـ - 20120813</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">14,055</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">11</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">7</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=147" class="title">د. المسند حوار فلكي حول هلال رمضان 33 في قناة الجزيرة  العربية والثقافية ودرة</a> </td>
+<td class="tdform"><font class="smallfont">14330827هـ - 20120717</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,968</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=146" class="title">رَمَـضَـانُ 1433هـ  ...  فَلَكِيّاً | زَمَنِيّاً </a> </td>
+<td class="tdform"><font class="smallfont">14330827هـ - 20120717</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">14,537</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">13</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">6</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=145" class="title">المسافة بين الأرض والشمس</a> </td>
+<td class="tdform"><font class="smallfont">14330815هـ - 20120705</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">7,427</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=144" class="title">صيف 2012 .. تأملات رقمية.</a> </td>
+<td class="tdform"><font class="smallfont">14330814هـ - 20120704</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">20,543</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=143" class="title">صاروخ روسي عابر للقارات يصيب سكان الشرق الأوسط بالهلع:</a> </td>
+<td class="tdform"><font class="smallfont">14330717هـ - 20120607</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">26,403</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">11</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">6</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=142" class="title">رياح البوارح وأثرها في إثارة العواصف الرملية  في شرقي المملكة العربية السعودية </a> </td>
+<td class="tdform"><font class="smallfont">14330714هـ - 20120604</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">12,034</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=141" class="title">الغبار هل يُعلق المباريات الرياضية؟</a> </td>
+<td class="tdform"><font class="smallfont">14330628هـ - 20120519</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">6,801</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=138" class="title">فدك وحديقة البراكين Fadak and Volcanic Park</a> </td>
+<td class="tdform"><font class="smallfont">14330619هـ - 20120510</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">11,394</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">15</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=137" class="title">"مغدقة" أول اسم يطلق من لجنة تسمية الحالات المناخية في السعودية</a> </td>
+<td class="tdform"><font class="smallfont">14330609هـ - 20120430</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">9,355</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">4</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">7</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=136" class="title">جبل المَحَجََّة </a> </td>
+<td class="tdform"><font class="smallfont">14330605هـ - 20120426م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">11,007</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=135" class="title">الحديث عن عاصفة الشبح الغبارية عبر قناة الجزيرة</a> </td>
+<td class="tdform"><font class="smallfont">14330425هـ - 20120318</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">15,293</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">7</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">6</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=134" class="title">الاضطرابات الجوية فبراير 2012 </a> </td>
+<td class="tdform"><font class="smallfont">14330329هـ - 20120221</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">6,367</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">0</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=133" class="title">أزمة المياه الجوفية في السعودية </a> </td>
+<td class="tdform"><font class="smallfont">14330329هـ - 20120221</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">8,198</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=132" class="title">«خذ نصف حكي الفلكيين والباقي أرمه في البحر»</a> </td>
+<td class="tdform"><font class="smallfont">14330311هـ - 20120203</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">11,359</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">4</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=131" class="title">لقاء قناة الثقافية حول الإجازة الربيعية</a> </td>
+<td class="tdform"><font class="smallfont">14330216هـ - 20120110</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,640</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=130" class="title">المهرجانات الربيعية في المتنزهات البرية .. فوضى بيئية!</a> </td>
+<td class="tdform"><font class="smallfont">14330221هـ - 20120115</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">13,477</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">3</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">5</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=129" class="title">جغرافية وادي الرمة وسط المملكة العربية السعودية</a> </td>
+<td class="tdform"><font class="smallfont">14330202هـ - 20120127</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">26,756</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">14</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">5</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=128" class="title">قمة الأمم المتحدة للتغير المناخي بدوربان بجنوب أفريقيا 2011</a> </td>
+<td class="tdform"><font class="smallfont">14330125هـ - 20111220</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">6,067</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">4</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=127" class="title">عاشوراء الاثنين؟ أم الثلاثاء؟</a> </td>
+<td class="tdform"><font class="smallfont">14330108هـ - 20111203</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">7,132</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">9</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=125" class="title">لقاء صباح السعودية .. الضياع في الصحراء</a> </td>
+<td class="tdform"><font class="smallfont">14321219هـ - 20111115</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">9,415</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">5</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=39" class="title">إسكان الحجاج في مِنى بين الوضع الحالي والمشروع المقترح</a> </td>
+<td class="tdform"><font class="smallfont">ذو الحجة 1428هـ</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">71,271</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">22</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">37</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=124" class="title">التَقَلُبَاتُ الجَوْيَّةُ فِيْ الحَجِ 1432هـ 2011م </a> </td>
+<td class="tdform"><font class="smallfont">14321201 هـ   20111028 م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">10,454</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">5</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=123" class="title">يُسلم عليكم شيخ الإسلام!</a> </td>
+<td class="tdform"><font class="smallfont">14321111هـ - 20111009</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">7,972</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">16</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=122" class="title">خفايا رؤية الأهلة .. أزمة قديمة نعيش فصلها الأخير</a> </td>
+<td class="tdform"><font class="smallfont">14321028هـ - 20110926</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">5,590</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">2</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=121" class="title">كـنـت مــــنَـوَّلْ !! </a> </td>
+<td class="tdform"><font class="smallfont">14321015هـ 20110913م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">6,295</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">7</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=120" class="title">لجنة تقصي الحقائق بشأن رؤية هلال أول الشهر</a> </td>
+<td class="tdform"><font class="smallfont">14321006هـ 20110904م</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">54,248</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">61</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">7</a></font></td>
+	</tr>
+</table>
+</td>
+</tr><tr>
+<td class="tdform">
+<img border="0" src="images/page.gif" width="11" height="11"> <a href="articles.php?id=119" class="title">الوقت و التوقيت ... هنا مكة </a> </td>
+<td class="tdform"><font class="smallfont">14320924هـ - 20110924</font></td>
+<td class="tdform"><table border="0" cellpadding="4">
+	<tr>
+		<td><font class="smallfont">
+		<img src="images/read-icon.gif" width="13" align="right" border="0" height="13" alt="قراءة"><a title="قراءة">26,542</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/comments.jpg" width="13" align="right" border="0" height="13" alt="تعليق"><a title="تعليق">15</a></font></td>
+		<td><font class="smallfont">
+		<img src="images/print.gif" width="13" align="right" border="0" height="13" alt="طباعة"><a title="طباعة">4</a></font></td>
+	</tr>
+</table>
+</td>
+</tr>
+								<tr>
+									<td class="myfont" width="100%" colspan="3">
+									<br>
+									<b>»</b> <a href="index.php" class="menu">الرئيسية</a></td>
+								</tr>
+							</table></div>
+<table border="0" width="100%" cellpadding="4" style="border-collapse: collapse">
+	<tr>
+		<td colspan="2"><font face="Tahoma" size="1"><span lang="en-us">&nbsp;</span></font></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<div align="center">
+			<table border="0" width="50%" cellspacing="4" cellpadding="4">
+				<tr>
+					<td>
+					<p align="center">
+					<embed width="450" height="80" src="images/banner.swf"><embed width="160" height="60" src="images/banner-small.swf"></td>
+				</tr>
+			</table>
+		</div>
+		</td>
+	</tr>
+
+	<tr>
+		<td valign="top" style="border-top-style: solid; border-top-width: 1px; border-color: silver;" class="picofday1">
+		<font face="Tahoma" style="font-size: 9pt">	©جميع الحقوق محفوظة 1430هـ - 2009م 
+		<a class="footer" href="index.php"><font color="#FFFFFF">عبد الله المسند</font></a></font></font></td>
+		<td valign="top" style="border-top-style: solid; border-top-width: 1px;  border-color: silver;" class="picofday1">
+		<p align="left">
+		<font face="Tahoma" style="font-size: 9pt" color="#FFFFFF">جميع التعليقات والردود المطروحة
+		لا تمثل رأي موقع الدكتور عبد الله المسند ، بل تعبر عن رأي كاتبها</font></font></td>
+	</tr>
+	<tr>
+		<td valign="top" class="lastfive">
+			<p class="footer"><font face="Tahoma" style="font-size: 9pt">
+			<b>
+			<!--<font color="#666666">تصميم و تطوير: </font> <a href="mailto:zee_hossam@hotmail.com">حسام الزغيبي</a></font>-->
+			6385</b></td>
+		<td valign="top" class="lastfive">
+		<p align="left"><font face="Tahoma" style="font-size: 9pt">تصميم و تطوير: </font> <a href="mailto:zee_hossam@hotmail.com"><font face="Tahoma" style="font-size: 9pt">حسام الزغيبي</font></a></font></td>
+	</tr>
+</table>
+
+
+</tr>
+	</table>
+
+</td></tr>
+</table></div>
+
+</body>
+
+</html>

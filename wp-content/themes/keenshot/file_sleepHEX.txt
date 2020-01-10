@@ -1,0 +1,257 @@
+HTTP/1.1 200 OK
+Date: Thu, 26 Dec 2019 22:21:16 GMT
+Server: Apache/2.2.17 (FreeBSD) mod_ssl/2.2.17 OpenSSL/0.9.8q DAV/2 PHP/5.3.5 with Suhosin-Patch
+X-Powered-By: PHP/5.3.5
+Connection: close
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+ <title>Prague City Archives</title>
+ <base href="http://www.ahmp.cz/" />
+ <meta name="description" content="Prague City Archives"/>
+ <meta name="keywords" content="archives"/>
+ <meta name="author" content="Tomas Hanousek - mailto:tomas.hanousek@cityofprague.cz"/>
+ <meta name="copyright" content="Prague City Archives"/>
+ <meta http-equiv="Content-Type" content="text/html; charset=windows-1250"/>
+ <meta name="contentdir" content="eng/"/>
+ <meta name="contentlang" content="en"/>
+ <link href="style/main.css" rel="stylesheet" type="text/css"/>
+ <link href="style/article.css" rel="stylesheet" type="text/css"/>
+ <link href="style/lightbox.css" mce_href="style/lightbox.css" rel="stylesheet" type="text/css"/>
+ <script type="text/javascript" src="inc/menu.js"></script>
+ <script type="text/javascript" src="inc/jquery-1.7.2.min.js"></script>
+ <script type="text/javascript" src="inc/lightbox.js"></script> 
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#000000" alink="#505050" vlink="#000000" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" onClick="hideMenu(0)">
+
+<font size="2" face="Verdana CE, Verdana, Arial CE, Arial">
+
+<!-- -->
+<table width="100%" height="100%" align="left" valign="top" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:100%; height:100%;">
+<tr><td height="4" bgcolor="#ffffff"> </td></tr>
+<tr>
+ <td id="bigArea" width="100%" height="100%" align="center" valign="top">
+  <table width="1000px" height="100%" align="center" valign="top" cellpadding="0" cellspacing="0" border="0">
+   <tr>
+<!--    <td id="bg_left" width="1px" height="100%" valign="top" bgcolor="#585858"><img src="img/null.gif" width="1" height="1" border="0" alt="" /></td> -->
+    <td width="1000px" height="100%" align="center" valign="top">
+<!-- -->
+
+<table id="root" width="1000px" height="100%" align="left" valign="top" cellpadding="0" cellspacing="0" border="0">
+<!-- <tr><td width="1000px" height="4" bgcolor="#ffffff"> </td></tr> -->
+ <tr onMouseOver="hideMenu(0)"><td id="headImg"><a href="eng/index.html"><img src="eng/img/head17.jpg" width="1000" height="90" border="0" alt="Prague City Archives" style="float:left"></a></td></tr>
+<!-- 
+ <tr><td><img src="img/strip.jpg" width="1000" height="6" border="0" alt="" style="float:left"></td></tr>
+ <tr><td width="100%" align="left" height="5" bgcolor="#723433"> </td></tr> 
+ <tr><td width="100%" align="right" height="26" bgcolor="#585858">
+  <img src="eng/img/headcaption.jpg" width="332" height="26" border="0" alt="" style="float:right">
+ </td></tr>
+--> 
+<!-- <tr><td width="100%" align="left" height="5" bgcolor="#723433"> </td></tr> -->
+ <tr><td width="100%" align="left" height="5" bgcolor="#e30613"> </td></tr>
+ <tr><td width="100%" align="left" height="10" bgcolor="#585858"> </td></tr>  
+
+<!-- root menu -->
+<tr>
+ <td id="menuBar" align="left" valign="top">
+  <table align="left" valign="top" cellpadding="0" cellspacing="0" border="0">
+   <tr>
+    <td id="rootItem1" class="mItem" width="160px" valign="center" onMouseOver="highlightRootItem(this,1)" onMouseOut="lowlightRootItem(this,1)" onClick="doItem(1,'',0)">About us</td>
+    <td id="rootItem2" class="mItem" width="160px" valign="center" onMouseOver="highlightRootItem(this,2)" onMouseOut="lowlightRootItem(this,2)" onClick="doItem(2,'',0)">Visit us</td>
+    <td id="rootItem3" class="mItem" width="180px" valign="center" onMouseOver="highlightRootItem(this,3)" onMouseOut="lowlightRootItem(this,3)" onClick="doItem(3,'',0)">On-line resources</td>
+    <td id="rootItem4" class="mItem" width="180px" valign="center" onMouseOver="highlightRootItem(this,4)" onMouseOut="lowlightRootItem(this,4)" onClick="doItem(4,'',0)">Conferences</td>
+    <td id="rootItem5" class="mItem" width="180px" valign="center" onMouseOver="highlightRootItem(this,5)" onMouseOut="lowlightRootItem(this,5)" onClick="doItem(5,'',0)">Publications</td>
+    <td class="mItem" width="140px" valign="center"> </td>
+   </tr>
+  </table>
+ </td>
+</tr>
+<!-- konec root menu -->
+
+ <tr><td width="1000" height="1" bgcolor="#000000"> </td></tr>
+
+<!-- body -->
+<!-- body -->
+ <tr onMouseOver="hideMenu(0)">
+  <td>
+   <table align="left" valign="top" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+ <!-- levy pruh -->
+     <td width="239" height="100%" valign="top">
+      <table valign="top" cellpadding="0" cellspacing="0" border="0">
+       <tr>
+        <td>
+         <table border="0" width="239">
+          <tr>
+           <td class="search">
+               <form method="get" action="http://www.google.com/search">
+            <table align="center" border="0">
+             <tr>
+              <td align="center">
+                <input type="hidden" name="as_sitesearch" value="www.ahmp.cz/eng"/>
+                <input type="hidden" name="num" value="20"/>
+                <input type="text" name="q" size="20" class="input"/>
+                <input type="submit" value="search"/>
+              </td>
+             </tr>
+             <tr>
+              <td valign="top">
+               <table align="center" width="204px">
+                <tr>
+                 <td align="left">
+                  <span class="lang">
+                   <a href="index.html"><img src="img/czflag3.gif" width="20" height="10" border="1" alt=""></a>
+                   <a href="eng/index.html"><img src="img/ukflag3.jpg" width="20" height="10" border="1" alt=""></a>
+                  </span>
+                 </td>
+                 <td align="right" style="font-family: Verdana CE, Verdana, Arial CE, Arial; font-size: 11px;""><a href="eng/index.html?page='webmap.php'">Webmap</a></td>
+                </tr>
+                <tr height="8px"><td> </td></tr>
+               </table>
+              </td>
+             </tr>
+            </table>
+           </td>
+               </form>
+          </tr>
+          <tr>
+           <td style="padding-top:4px">
+<!-- submenu -->
+<ul class="submenu">
+ <li><a href="eng/index.html?mid=15&wstyle=0&page=''">Where to find us</a></li>
+ <li><a href="eng/index.html?mid=10&wstyle=0&page=''">Contact us</a></li>
+ <li><a href="eng/index.html?mid=11&wstyle=0&page=''">Reading Room</a></li>
+ <li><a href="eng/index.html?mid=17&wstyle=0&page=''">Research guide</a></li>
+ <li><a href="eng/index.html?mid=18&wstyle=0&page=''">The Catalogue</a></li>
+ <li><a href="eng/index.html?mid=23&wstyle=0&page=''">Prazsky sbornik historicky</a></li>
+ <li><a href="eng/index.html?mid=24&wstyle=0&page=''">Documenta Pragensia</a></li>
+ <li><a href="eng/index.html?mid=4&wstyle=0&page=''">Conferences</a></li>
+</ul>
+<!-- konec submenu -->
+           </td>
+          </tr>
+          <tr><td><hr size="1" color="#c0c0c0"></td></tr>
+          <tr>
+           <td style="padding-top:8px">
+            <div class="notice">
+             Archiv hlavniho mesta Prahy<br/>
+             (Prague City Archives)<br/>
+             Archivni&nbsp;6, 149&nbsp;00 Praha&nbsp;4 (Prague&nbsp;4)<p/>
+             Phone: +420-23600&nbsp;1111<br/>
+             Phone Registry: +420-23600&nbsp;4017<br>
+             Phone Reading Room: +420-23600&nbsp;4012<br/>
+             Fax: +420-23600&nbsp;7100<p/>
+             <a href="http://www.praha.eu/jnp/en/home/index.html" target="_blank"><img src="../img/phalogo3bg.png" border="0" alt="Capital City of Prague"></a><br/>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+      </table>
+     </td>
+ <!-- konec leveho pruhu -->
+     <td width="1" height="100%" bgcolor="#d42e12"></td>
+     <td valign="top">
+ <!-- main area -->
+ <div id="mainArea" style="position:relative">
+ <table valign="top" border="0">
+ <tr>
+  <td width="100%" valign="top" style="padding-left:8px;">
+</td>
+</tr>
+</table>
+ </div>
+ <!-- konec main area -->
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+<!-- konec body -->
+<!-- konec body -->
+
+</table>
+
+<!-- -->
+</td>
+<!-- <td id="bg_right" width="4px" height="100%" valign="top" style="background-color:#ffffff; background-image:url('img/bg_right2.gif'); background-position:left top; background-repeat:repeat-y; background-attachment:scroll;"><img src="img/null.gif" width="4" height="1" border="0" alt="" /></td> -->
+</tr>
+</table></td></tr>
+</table>
+<!-- -->
+
+<!-- popup menu -->
+<div id="menu1" class="menu">
+ <table align="left" valign="top" cellpadding="4" cellspacing="0" border="0">
+  <tr><td class="item" onMouseOver="highlightItem(this,1)" onMouseOut="lowlightItem(this)" onClick="doItem(7,'',0)">History</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,1)" onMouseOut="lowlightItem(this)" onClick="doItem(8,'',0)">International cooperation</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,1)" onMouseOut="lowlightItem(this)" onClick="doItem(9,'',0)">Projects</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,1)" onMouseOut="lowlightItem(this)" onClick="doItem(10,'',0)">Contact us</td></tr>
+ </table>
+</div>
+<div id="menu2" class="menu">
+ <table align="left" valign="top" cellpadding="4" cellspacing="0" border="0">
+  <tr><td class="item" onMouseOver="highlightItem(this,2)" onMouseOut="lowlightItem(this)" onClick="doItem(11,'',0)">Reading Room</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,2)" onMouseOut="lowlightItem(this)" onClick="doItem(12,'',0)">Paid search service</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,2)" onMouseOut="lowlightItem(this)" onClick="doItem(13,'',0)">Copies and copyright</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,2)" onMouseOut="lowlightItem(this)" onClick="doItem(14,'',0)">Organising a group visit</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,2)" onMouseOut="lowlightItem(this)" onClick="doItem(15,'',0)">Where to find us</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,2)" onMouseOut="lowlightItem(this)" onClick="doItem(16,'',0)">Opening hours and closure dates</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,2)" onMouseOut="lowlightItem(this)" onClick="doItem(44,'',0)">Price list</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,2)" onMouseOut="lowlightItem(this)" onClick="doItem(33,'',0)">FAQ</td></tr>
+ </table>
+</div>
+<div id="menu3" class="menu">
+ <table align="left" valign="top" cellpadding="4" cellspacing="0" border="0">
+  <tr><td class="item" onMouseOver="highlightItem(this,3)" onMouseOut="lowlightItem(this)" onClick="doItem(17,'',0)">Research guide</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,3)" onMouseOut="lowlightItem(this)" onClick="doItem(18,'',0)">The Catalogue</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,3)" onMouseOut="lowlightItem(this)" onClick="doItem(53,'',0)">Library Catalogue</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,3)" onMouseOut="lowlightItem(this)" onClick="doItem(19,'',0)">Researching family history</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,3)" onMouseOut="lowlightItem(this)" onClick="doItem(20,'',0)">Library guide</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,3)" onMouseOut="lowlightItem(this)" onClick="doItem(21,'',0)">Parish and civil registers</td></tr>
+ </table>
+</div>
+<div id="menu4" class="menu">
+ <table align="left" valign="top" cellpadding="4" cellspacing="0" border="0">
+  <tr><td class="item" onMouseOver="highlightItem(this,4)" onMouseOut="lowlightItem(this)" onClick="doItem(54,'',0)">Conference 2019</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,4)" onMouseOut="lowlightItem(this)" onClick="doItem(46,'',0)">Conference 2018</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,4)" onMouseOut="lowlightItem(this)" onClick="doItem(45,'',0)">Conference 2017</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,4)" onMouseOut="lowlightItem(this)" onClick="doItem(43,'',0)">Conference 2016</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,4)" onMouseOut="lowlightItem(this)" onClick="doItem(40,'',0)">Conference 2015</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,4)" onMouseOut="lowlightItem(this)" onClick="doItem(39,'',0)">Conference 2014</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,4)" onMouseOut="lowlightItem(this)" onClick="doItem(38,'',0)">Conference 2013</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,4)" onMouseOut="lowlightItem(this)" onClick="doItem(37,'',0)">Conference 2012</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,4)" onMouseOut="lowlightItem(this)" onClick="doItem(34,'',0)">Conference 2011</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,4)" onMouseOut="lowlightItem(this)" onClick="doItem(32,'',0)">Conference 2010</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,4)" onMouseOut="lowlightItem(this)" onClick="doItem(22,'',0)">Conference 2009</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,4)" onMouseOut="lowlightItem(this)" onClick="doItem(36,'',0)">Conference 2008</td></tr>
+ </table>
+</div>
+<div id="menu5" class="menu">
+ <table align="left" valign="top" cellpadding="4" cellspacing="0" border="0">
+  <tr><td class="item" onMouseOver="highlightItem(this,5)" onMouseOut="lowlightItem(this)" onClick="doItem(52,'',0)">Book Sale Information</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,5)" onMouseOut="lowlightItem(this)" onClick="doItem(23,'',0)">Prazsky sbornik historicky</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,5)" onMouseOut="lowlightItem(this)" onClick="doItem(24,'',0)">Documenta Pragensia</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,5)" onMouseOut="lowlightItem(this)" onClick="doItem(35,'',0)">Documenta Pragensia Supplementa</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,5)" onMouseOut="lowlightItem(this)" onClick="doItem(25,'',0)">Documenta Pragensia Monographia</td></tr>
+  <tr><td class="item" onMouseOver="highlightItem(this,5)" onMouseOut="lowlightItem(this)" onClick="doItem(49,'',0)">Other publications</td></tr>
+ </table>
+</div>
+<!-- konec popup menu -->
+
+<!-- zmena zahlavi -->
+<div id="headImg1">
+ <a href="eng/index.html" onMouseOver="hideMenu(0)"><img id="image1" border="0" alt=""></a>
+</div>
+<div id="headImg2">
+ <a href="eng/index.html" onMouseOver="hideMenu(0)"><img id="image2" border="0" alt=""></a>
+</div>
+<!-- konec zmena zahlavi -->
+
+</body>
+</html>

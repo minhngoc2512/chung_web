@@ -1,0 +1,707 @@
+# Translation of Themes - Rara Academic in Vietnamese
+# This file is distributed under the same license as the Themes - Rara Academic package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-29 10:30:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Rara Academic\n"
+
+#. Description of the plugin/theme
+msgid "Rara Academic is a professionally designed WordPress theme which is best suited for Education Institution, Schools and Universities. Although developed with Education institutions in mind, this theme is not limited to just educational websites. The theme is flexible enough to be used for business and corporate websites. Theme is highly customizable with layout settings and several other theme options which can be customized by using Powerful Theme Options panel. Rara Academic comes with several features to make user-friendly, interactive and visually stunning website. Such features include custom menu, Call to Action Button, Full width Banner, Testimonial section, Courses section and social media. It has four footer areas and a right sidebar and includes three custom widgets for the recent posts, popular posts, and social media. The theme is SEO friendly with optimized codes, which make it easy for your site to rank on Google and other search engines. The theme is rigorously tested and optimized for speed and faster page load time and has a secure and clean code. The theme is also translation ready. Designed with visitor engagement in mind, Rara Academic helps you to easily and intuitively create professional and appealing websites. Check the demo at http://raratheme.com/preview/rara-academic/, documentation at http://raratheme.com/documentation/rara-academic and get support at https://raratheme.com/support-ticket"
+msgstr "Rara Academic là một giao diện wordpress được thiết kế chuyên nghiệp phù hợp với Tổ chức giáo dục, Trường học và Đại học. Mặc dù được phát triển dành cho các cơ sở Giáo dục, giao diện này không giới hạn tại các trang web giáo dục. Giao diện linh hoạt được sử dụng cho các doanh nghiệp và các trang web công ty. Giao diện có tính năng tùy chỉnh cài đặt bố cục có tính bảo mật cao và giao diện có thể tùy chỉnh bằng cách sử dụng bảng điều khiển. Rara Academic tích hợp một số tính năng thân thiện với người dùng và trên các thiết bị di động, máy tính bảng giúp trang web của bạn mang một diện mạo mới. Các tính năng như vậy bao gồm tùy chỉnh menu, Gọi để hành động Nút, Banner full Chiều rộng, mục Chứng thực, mục khóa học và phương tiện truyền thông xã hội. Nó có bốn khu footer và một thanh trang bên phải và bao gồm ba widgets tùy chỉnh cho các bài đăng gần đây, bài đăng phổ biến và phương tiện truyền thông xã hội. Cửa hàng bánh. Giao diện được tính hợp SEO thân thiện cùng với tối ưu code, để cho trang web của bạn dễ dàng xếp hàng trên Google và các công cụ tìm kiếm khác. Mã code của giao diện được kiểm tra nghiêm ngặt để tối ưu hóa tốc độ để thời gian tải trang nhanh hơn và an toàn hơn. Giao diện đã được dịch sẵn. Được thiết kế với sự tham gia của khách truy cập, Rara Academic giúp bạn dễ dàng tạo ra những trang web chuyên nghiệp, hấp dẫn và trực quan. Kiểm tra demo tại http://raratheme.com/preview/rara-academic/, tài liệu tại http://raratheme.com/documentation/rara-academic và nhận hỗ trợ tại https://raratheme.com/support-ticket"
+
+#. Theme Name of the plugin/theme
+msgid "Rara Academic"
+msgstr "Rara Academic"
+
+#: inc/customizer.php:1201
+msgid "Copyright Info"
+msgstr "Thông tin bản quyền"
+
+#: inc/customizer.php:1184
+msgid "Footer Settings"
+msgstr "Cài đặt chân trang"
+
+#: inc/customizer.php:1174
+msgid "Full content in Blog page"
+msgstr "Nội dung đầy đủ trong trang Blog"
+
+#: inc/customizer.php:1156
+msgid "Blog Page Settings"
+msgstr "Cài đặt Trang Blog"
+
+#: inc/custom-functions.php:147 inc/customizer.php:1145
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/custom-functions.php:145 inc/customizer.php:1127
+msgid "VK"
+msgstr "VK"
+
+#: inc/custom-functions.php:143 inc/customizer.php:1110
+msgid "OK"
+msgstr "OK"
+
+#: inc/info.php:29
+msgid ""
+"<strong>Instruction for how to setup Home Page in Rara Academic Theme</strong><br/>1. Go to Pages and create a new page (Title can be anything. For example, Home )<br/>\n"
+"2. In right column and under Page Attributes, choose \"Home Page\" template<br/>\n"
+"3. Click on Publish<br/>\n"
+"4. Go to Appearance-> Customize -> Default Settings -> Static Front Page<br/>\n"
+"5. Select A static page<br/>\n"
+"6. Under Front Page, select the page that you created in the step 1<br/>\n"
+"7. Save changes"
+msgstr ""
+"<strong>Hướng dẫn cách thiết lập trang chủ trong giao diện Rara Academic Theme</strong><br/>1. Chuyển đến Trang và tạo một trang mới (Tiêu đề có thể là bất cứ điều gì. Ví dụ: Trang chủ )<br/>\n"
+"2.Trong cột bên phải và bên dưới Thuộc tính trang, chọn mẫu \"Trang chủ\"<br/>\n"
+"3. Nhấp vào Xuất bản<br/>\n"
+"4. Chuyển đến Xuất hiện -> Tùy chỉnh -> Cài đặt Mặc định -> Trang tĩnh<br/>\n"
+"5. Chọn Một trang tĩnh<br/>\n"
+"6. Dưới Trang Chủ, chọn trang mà bạn đã tạo trong bước 1<br/>\n"
+"7. Lưu thay đổi"
+
+#: inc/woocommerce-functions.php:38
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Thanh bên hiển thị chỉ trong các trang woocommerce."
+
+#: inc/woocommerce-functions.php:36
+msgid "Shop Sidebar"
+msgstr "Sidebar cửa hàng"
+
+#: inc/template-functions.php:303
+msgid "Page %s"
+msgstr "Trang %s"
+
+#: inc/template-functions.php:242
+msgid "d"
+msgstr "d"
+
+#: inc/template-functions.php:241 inc/template-functions.php:246
+msgid "F"
+msgstr "F"
+
+#: inc/template-functions.php:241
+msgid "m"
+msgstr "m"
+
+#: inc/template-functions.php:240 inc/template-functions.php:241
+#: inc/template-functions.php:245 inc/template-functions.php:249
+msgid "Y"
+msgstr "Y"
+
+#: inc/info.php:179
+msgid "VIEW PRO THEME"
+msgstr "XEM THEME BẢN PRO"
+
+#: inc/info.php:177
+msgid "Pro Available"
+msgstr "Pro sẵn có"
+
+#: inc/info.php:56
+msgid "About Rara Academic"
+msgstr "Về Rara Academic"
+
+#: inc/info.php:52
+msgid "More WordPress Themes"
+msgstr "Thêm giao diện WordPress"
+
+#: inc/info.php:51
+msgid "Rate this theme"
+msgstr "Đánh giá giao diện này"
+
+#: inc/info.php:50
+msgid "Support ticket"
+msgstr "Nhận Hỗ trợ"
+
+#: inc/info.php:49
+msgid "Theme info"
+msgstr "Thông tin chủ đề"
+
+#: inc/info.php:48
+msgid "View documentation"
+msgstr "Xem tài liệu"
+
+#: inc/info.php:47 inc/info.php:48 inc/info.php:49 inc/info.php:50
+#: inc/info.php:51 inc/info.php:52
+msgid "here"
+msgstr "đây"
+
+#: inc/info.php:47
+msgid "View demo"
+msgstr "Xem demo"
+
+#: inc/info.php:46
+msgid "Need help?"
+msgstr "Cần giúp đỡ?"
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr "Liên kết thông tin"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Trang chủ"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-search.php:35 template-parts/content.php:43
+#: template-parts/content.php:52
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:30
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can not find what you are looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm có thể giúp đỡ."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng đăng bài viết đầu tiên chưa? <a href=\"%1$s\">Hãy bắt đầu tại đây</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không có kết quả"
+
+#: sections/testimonial.php:52
+msgid ","
+msgstr ","
+
+#: sections/testimonial.php:48
+msgid "-"
+msgstr "-"
+
+#: sections/blog.php:54
+msgctxt "post author"
+msgid "By %s"
+msgstr "Bởi %s"
+
+#: search.php:21
+msgid "If you don&rsquo;t find what you want please do another search"
+msgstr "Nếu bạn không tìm thấy những gì bạn muốn, hãy thực hiện một tìm kiếm khác"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Tìm kiếm kết quả cho: %s"
+
+#: inc/widgets/widgets.php:48
+msgid "Footer Four"
+msgstr "Cuối trang Bốn"
+
+#: inc/widgets/widgets.php:38
+msgid "Footer Three"
+msgstr "Cuối trang Ba"
+
+#: inc/widgets/widgets.php:28
+msgid "Footer Two"
+msgstr "Cuối trang hai"
+
+#: inc/widgets/widgets.php:18
+msgid "Footer One"
+msgstr "Cuối trang đầu tiên"
+
+#: inc/widgets/widgets.php:10 inc/widgets/widgets.php:20
+#: inc/widgets/widgets.php:30 inc/widgets/widgets.php:40
+#: inc/widgets/widgets.php:50
+msgid "Add widgets here."
+msgstr "Thêm widget ở đây."
+
+#: inc/widgets/widgets.php:8
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: inc/widgets/widget-social-links.php:72
+msgid "You can change the social links from the customizer in Social Settings options."
+msgstr "Bạn có thể thay đổi các liên kết xã hội từ customizer trong các tùy chọn Cài đặt mạng xã hội ."
+
+#: inc/widgets/widget-social-links.php:41
+#: inc/widgets/widget-social-links.php:62
+#: inc/widgets/widget-social-links.php:91
+msgid "Social Media"
+msgstr "Truyền thông xã hội"
+
+#: inc/widgets/widget-social-links.php:27
+msgid "A Social Links Widget"
+msgstr "Tiện ích liên kết mạng xã hội"
+
+#: inc/widgets/widget-social-links.php:26
+msgid "RARA: Social Links"
+msgstr "RARA: Liên kết mạng xã hội"
+
+#: inc/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Widget bài viết gần đây"
+
+#: inc/widgets/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr "RARA: Bài viết gần đây"
+
+#: inc/widgets/widget-popular-post.php:127
+#: inc/widgets/widget-recent-post.php:126
+msgid "Show Post Date"
+msgstr "Hiển thị ngày bài viết"
+
+#: inc/widgets/widget-popular-post.php:122
+#: inc/widgets/widget-recent-post.php:121
+msgid "Show Post Thumbnail"
+msgstr "Hiển thị hình thu nhỏ bài viết"
+
+#: inc/widgets/widget-popular-post.php:116
+#: inc/widgets/widget-recent-post.php:115
+msgid "Number of Posts"
+msgstr "Số bài viết"
+
+#: inc/widgets/widget-popular-post.php:111
+#: inc/widgets/widget-recent-post.php:110
+#: inc/widgets/widget-social-links.php:67
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/widgets/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr "Widget bài viết phổ biến"
+
+#: inc/widgets/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr "RARA: Bài viết phổ biến"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:65
+msgid "Edit %s"
+msgstr "Sửa %s"
+
+#: inc/template-tags.php:52 inc/template-tags.php:58
+#: inc/widgets/widget-popular-post.php:76 inc/widgets/widget-recent-post.php:75
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/template-tags.php:36
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Để lại bình luận<span class=\"screen-reader-text\"> on %s</span>"
+
+#: inc/template-tags.php:28
+msgctxt "post author"
+msgid "BY %s"
+msgstr "BY %s"
+
+#: inc/template-tags.php:23
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-functions.php:474
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/template-functions.php:474
+msgid "Powered by %s"
+msgstr "Được hỗ trợ bởi %s"
+
+#: inc/template-functions.php:473
+msgid "Rara Academic by Rara Theme."
+msgstr "Rara Học thuật theo chủ đề Rara."
+
+#: inc/template-functions.php:469
+msgid "&copy; Copyright "
+msgstr "&Sao chép; Bản quyền "
+
+#: inc/template-functions.php:371
+msgid "Posted by %s"
+msgstr "Đăng bởi %s"
+
+#: inc/template-functions.php:345
+msgid "404 Error - Page not Found"
+msgstr "Lỗi 404 - Không tìm thấy trang"
+
+#: inc/template-functions.php:237
+msgid "\""
+msgstr "\""
+
+#: inc/template-functions.php:237
+msgid "Search Results for \""
+msgstr "Tìm kiếm kết quả cho \""
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template"
+msgstr "Chọn Mẫu Sidebar"
+
+#: inc/metabox.php:29
+msgid "No Sidebar"
+msgstr "Không có Sidebar"
+
+#: inc/metabox.php:24
+msgid "Right Sidebar (default)"
+msgstr "Thanh bên phải ( mặc định )"
+
+#: inc/metabox.php:12
+msgid "Sidebar Layout"
+msgstr "Bố cục Sidebar"
+
+#: inc/customizer.php:965
+msgid "Enable Social Links in Header"
+msgstr "Bật Liên kết mạng Xã hội trong Tiêu đề"
+
+#: inc/customizer.php:947
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Để trống nếu bạn không muốn hiển thị liên kết mạng xã hội."
+
+#: inc/customizer.php:946
+msgid "Social Settings"
+msgstr "Thiết lập mạng xã hội"
+
+#: inc/customizer.php:935
+msgid "Breadcrumb Separator"
+msgstr "Đường dẫn Phân cách"
+
+#: inc/customizer.php:927 inc/template-functions.php:185
+msgid ">"
+msgstr ">"
+
+#: inc/customizer.php:917
+msgid "Breadcrumb Home Text"
+msgstr "Đường dẫn Trang chủ Tiêu đề"
+
+#: inc/customizer.php:909 inc/template-functions.php:186
+msgid "Home"
+msgstr "Trang Chủ"
+
+#: inc/customizer.php:899
+msgid "Show current"
+msgstr "Hiển thị hiện tại"
+
+#: inc/customizer.php:881
+msgid "Enable Breadcrumb"
+msgstr "Kích hoạt tính năng Đường dẫn"
+
+#: inc/customizer.php:862
+msgid "Breadcrumb Settings"
+msgstr "Cài đặt Đường dẫn"
+
+#: inc/customizer.php:779
+msgid "Enable CTA Section"
+msgstr "Bật Mục Cố vấn"
+
+#: inc/customizer.php:761
+msgid "CTA Section"
+msgstr "Phòng Cố vấn"
+
+#: inc/customizer.php:750
+msgid "Choose Testimonials Category"
+msgstr "Chọn Danh mục Chứng thực"
+
+#: inc/customizer.php:714
+msgid "Enable Testimonials Section"
+msgstr "Bật phần Chứng thực"
+
+#: inc/customizer.php:696
+msgid "Testimonials Section"
+msgstr "Phần Chứng Thực"
+
+#: inc/customizer.php:650
+msgid "Enable Latest News Section"
+msgstr "Bật Mục tin tức mới nhất"
+
+#: inc/customizer.php:632
+msgid "Blog Section"
+msgstr "Mục Blog"
+
+#: inc/customizer.php:622 inc/customizer.php:851
+msgid "Button Link"
+msgstr "Liên kết nút"
+
+#: inc/customizer.php:604 inc/customizer.php:833
+msgid "Button Label"
+msgstr "Nhãn Nút"
+
+#: inc/customizer.php:550
+msgid "Enable Notice Section"
+msgstr "Bật phần thông báo"
+
+#: inc/customizer.php:532
+msgid "Notice Section"
+msgstr "Phần thông báo"
+
+#: inc/customizer.php:521
+msgid "Select Post Six"
+msgstr "Chọn sáu bài viết"
+
+#: inc/customizer.php:502
+msgid "Select Post Five"
+msgstr "Chọn Năm Bài viết"
+
+#: inc/customizer.php:483
+msgid "Select Post Four"
+msgstr "Chọn Bốn Bài viết"
+
+#: inc/customizer.php:392
+msgid "Enable Services Section"
+msgstr "Bật Mục Dịch vụ"
+
+#: inc/customizer.php:374
+msgid "Service Section"
+msgstr "Mục Dịch vụ"
+
+#: inc/customizer.php:357 sections/welcome.php:9
+#: template-parts/content-search.php:42 template-parts/content.php:63
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: inc/customizer.php:346
+msgid "Select Welcome Post"
+msgstr "Chọn Lời Chào bài Đăng"
+
+#: inc/customizer.php:328
+msgid "Enable Welcome Section"
+msgstr "Bật Mục chào mừng"
+
+#: inc/customizer.php:310
+msgid "Welcome Section"
+msgstr "Phần chào mừng"
+
+#: inc/customizer.php:299 inc/customizer.php:464
+msgid "Select Post Three"
+msgstr "Chọn Ba Bài viết"
+
+#: inc/customizer.php:280 inc/customizer.php:445
+msgid "Select Post Two"
+msgstr "Chọn Hai Bài Viết"
+
+#: inc/customizer.php:261 inc/customizer.php:426
+msgid "Select Post One"
+msgstr "Chọn Một Bài Viết"
+
+#: inc/customizer.php:243 inc/customizer.php:586 inc/customizer.php:686
+#: inc/customizer.php:815
+msgid "Section Description"
+msgstr "Mục Miêu tả"
+
+#: inc/customizer.php:225 inc/customizer.php:409 inc/customizer.php:568
+#: inc/customizer.php:668 inc/customizer.php:732 inc/customizer.php:797
+msgid "Section Title"
+msgstr "Mục Tiêu đề"
+
+#: inc/customizer.php:207
+msgid "Enable Courses Section"
+msgstr "Bật Khóa học"
+
+#: inc/customizer.php:189
+msgid "Courses Section"
+msgstr "Phần Khoá học"
+
+#: inc/customizer.php:179 inc/customizer.php:365
+msgid "Read More Texts"
+msgstr "Đọc thêm Văn bản"
+
+#: inc/customizer.php:171 sections/banner.php:9
+msgid "Learn More"
+msgstr "Tìm hiểu thêm"
+
+#: inc/customizer.php:160
+msgid "Select Banner Post"
+msgstr "Chọn Quảng cáo bài viết"
+
+#: inc/customizer.php:142
+msgid "Enable Banner Section"
+msgstr "Bật Mục quảng cáo"
+
+#: inc/customizer.php:124
+msgid "Banner Section"
+msgstr "Mục Quảng Cáo"
+
+#: inc/customizer.php:116
+msgid "Customize Home Page Settings"
+msgstr "Tùy chỉnh Cài đặt Trang chủ"
+
+#: inc/customizer.php:115
+msgid "Home Page Settings"
+msgstr "Cài đặt Trang chủ"
+
+#: inc/customizer.php:103
+msgid "Email Address"
+msgstr "Địa chỉ email"
+
+#: inc/customizer.php:85
+msgid "Phone Number"
+msgstr "Số điện thoại"
+
+#: inc/customizer.php:67
+msgid "Header Settings"
+msgstr "Cài đặt tiêu đề"
+
+#: inc/customizer.php:47
+msgid "Default section provided by wordpress customizer"
+msgstr "Phần mặc định được cung cấp bởi wordpress customizer"
+
+#: inc/customizer.php:46
+msgid "Default Settings"
+msgstr "Thiết lập mặc định"
+
+#: inc/customizer.php:34
+msgid "Choose Category"
+msgstr "Chọn Thể Loại"
+
+#: inc/customizer.php:18
+msgid "Choose Post"
+msgstr "Chọn bài viết"
+
+#: inc/custom-functions.php:141 inc/customizer.php:1092
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/custom-functions.php:139 inc/customizer.php:1074
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/custom-functions.php:137 inc/customizer.php:1056
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/custom-functions.php:135 inc/customizer.php:1038
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/custom-functions.php:133 inc/customizer.php:1020
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/custom-functions.php:131 inc/customizer.php:1002
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/custom-functions.php:129 inc/customizer.php:983
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/custom-functions.php:100
+msgid "Page"
+msgstr "Trang"
+
+#: inc/custom-functions.php:99
+msgid ">>"
+msgstr ">>"
+
+#: inc/custom-functions.php:98
+msgid "<<"
+msgstr "<<"
+
+#: functions.php:59
+msgid "Secondary"
+msgstr "Thứ hai"
+
+#: functions.php:58
+msgid "Primary"
+msgstr "Sơ cấp"
+
+#: comments.php:127
+msgid "Your email address will not be published. "
+msgstr "Địa chỉ email của bạn sẽ không được xuất bản."
+
+#: comments.php:120
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Đăng nhập như <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Đăng xuất khỏi tài khoản này\">Đăng xuất?</a>"
+
+#: comments.php:114
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "bạn phải <a href=\"%s\">đăng nhập</a>để đăng bình luận."
+
+#: comments.php:109
+msgid "Comment"
+msgstr "Bình luận"
+
+#: comments.php:105
+msgid "Submit"
+msgstr "Gửi"
+
+#: comments.php:104
+msgid "Cancel Reply"
+msgstr "Hủy trả lời"
+
+#: comments.php:103
+msgid "Leave a Reply to %s"
+msgstr "Để lại trả lời đến %s"
+
+#: comments.php:102
+msgid "Leave a Reply"
+msgstr "Để lại Trả lời"
+
+#: comments.php:92
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:88
+msgid "Email*"
+msgstr "Email*"
+
+#: comments.php:84
+msgid "Name*"
+msgstr "Tên*"
+
+#: comments.php:79
+msgid "Required fields are marked"
+msgstr "Các trường bắt buộc được đánh dấu"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr "Các bình luận mới hơn"
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr "Các bình luận cũ hơn"
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Ý kiến"
+
+#: 404.php:23
+msgid "Back to Home"
+msgstr "Quay lại trang chủ"
+
+#: 404.php:19
+msgid "It seems we can not find what you are looking for. Perhaps searching will help."
+msgstr "Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm sẽ giúp đỡ."
+
+#: 404.php:16
+msgid "Oops! the page you requested was not found!"
+msgstr "Rất tiếc! không tìm thấy trang bạn yêu cầu"
+
+#: 404.php:14
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "http://raratheme.com/"
+msgstr "http://raratheme.com/"
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the plugin/theme
+msgid "http://raratheme.com/wordpress-themes/rara-academic/"
+msgstr "http://raratheme.com/wordpress-themes/rara-academic/"

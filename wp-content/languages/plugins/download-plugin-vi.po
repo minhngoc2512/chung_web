@@ -1,0 +1,68 @@
+# Translation of Plugins - Download Plugin - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Download Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-12 11:34:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Download Plugin - Stable (latest release)\n"
+
+#: dpwap-Class.php:311
+msgid "This is <b>"
+msgstr "Đây là <b>"
+
+#: dpwap-Class.php:291
+msgid "<div class=\"dpwap_h3\">Installing Plugins:</div>"
+msgstr "<div class=\"dpwap_h3\">Cài đặt plugin:</div>"
+
+#: dpwap-Class.php:263
+msgid "Maximum upload file size: %d%s."
+msgstr "Kích thước tải lên tối đa: %d%s."
+
+#: dpwap-Class.php:53
+msgid "<b class=\"mpi_act\">Plugin activated successfully.</b><br/>"
+msgstr "<b class=\"mpi_act\">Kích hoạt plugin thành công.</b><br/>"
+
+#: download-plugin.php:309
+msgid "Download"
+msgstr "Tải về captcha"
+
+#: multiple_upload_plugin.php:26
+msgid "Install Now"
+msgstr "Cài đặt ngay"
+
+#: multiple_upload_plugin.php:20
+msgid "You can select and upload multiple Plugins in .zip format"
+msgstr "Bạn có thể chọn tải tải lên nhiều plugin với định dạng .zip"
+
+#: multiple_upload_plugin.php:14
+msgid "<div class=\"mpi_error\">oops!!! Seems like the directory permission are not set right so some functionalities of plugin will not work.<br/>Please set the directory permission for the folder \"uploads\" inside \"wp-content\" directory to 777.</div>"
+msgstr "<div class=\"mpi_error\">Lỗi. Có vẻ như quyền thư mục chưa được thiết lập đúng nên một số hàm của plugin không hoạt động.<br/>Hãy đổi permission của thư mục \"uploads\" bên trong \"wp-content\" qua 777..</div>"
+
+#: activate-status.php:8
+msgid "Activation Status"
+msgstr "Trạng thái kích hoạt"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/metagauss/"
+msgstr "https://profiles.wordpress.org/metagauss/"
+
+#. Author of the plugin
+msgid "metagauss"
+msgstr "metagauss"
+
+#. Description of the plugin
+msgid "Download any plugin from your wordpress admin panel's plugins page by just one click!"
+msgstr "Tải bất kỳ plugin nào từ trang quản lý plugin với chỉ một click!"
+
+#. Plugin URI of the plugin
+msgid "http://metagauss.com"
+msgstr "http://metagauss.com"
+
+#. Plugin Name of the plugin
+msgid "Download Plugin"
+msgstr "Download Plugin"

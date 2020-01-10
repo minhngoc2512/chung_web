@@ -1,0 +1,31 @@
+.menu_simple {
+	width: 100%;
+	background-color: #005555;
+}
+
+.menu_simple ul {
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+.menu_simple ul li {
+	display: inline;
+}
+
+.menu_simple ul li a {
+	float: left;
+	text-decoration: none;
+	color: white;
+	padding: 10.5px 11px;
+	background-color: #005555;
+}
+
+.menu_simple ul li a:visited {
+	color: white;
+}
+
+.menu_simple ul li a:hover, .menu_simple ul li .current {
+	color: white;
+	background-color: #5FD367;
+}

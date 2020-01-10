@@ -1,0 +1,12 @@
+/** Admin Notice */
+.notice-info .notice-text {
+   position: relative;
+}
+
+.notice-text p.dismiss-link {
+   position: absolute;
+   top: 0;
+   right: 0;
+   margin: 0;
+   padding: 0;
+}
